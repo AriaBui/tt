@@ -15,8 +15,8 @@ body {
 }
 
 div > .Ornament{
-  height: 25vh;
-  width: 25vh;
+  /* height: 25vh;
+  width: 25vh; */
 
 }
 
@@ -45,8 +45,8 @@ div > .Ornament{
 }
 
 div > .Star {
-  height: 40vh;
-  width: 40vh;
+  height: 140px;
+  width: 140px;
   animation: star-spin 2s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
@@ -103,9 +103,11 @@ div > .Star {
 }
 .tree{
   position: relative;
+  /* background-color: red; */
+  height: 100%;
   
 }
 .tree > svg{
-  width: 74vh;
-  height: 63vh;
+  width: 400px;
+  height: 570px;
 }
