@@ -1,0 +1,39 @@
+﻿@using ParticipantAPI.ViewModels
+@model List<HighScore>
+
+@{
+    ViewBag.Title = "VismaKart HighScore";
+}
+<div class="row mt-3">
+    <div class="col-lg-3 col-md-4">
+        <img id="first_logo" src="~/img/logo.png" width="200px" />
+    </div>
+    <div class="col-lg-6 col-md-4 col-xs-12">
+        <h1>VismaKart Leaderboard</h1>
+    </div>
+    <div class="col-lg-3 col-md-4 col-xs-12">
+        <img id="second_logo" src="~/img/logo.png" width="200px" />
+    </div>
+</div>
+
+<table id="scoreboard" class="table striped mt-3">
+    <thead>
+        <tr>
+            <th>Rank</th>
+            <th>Username</th>
+            <th>Score</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            HighScore participantScore = Model.ElementAtOrDefault<HighScore>(i);
+            var rank = i + 1;
+            <tr>
+                <td>@rank</td>
+                <td><img class='avatar' src="~/img/avatar.png" width="50px" />@participantScore.Name</td>
+                <td>@participantScore.Score</td>
+            </tr>
+        }
+    </tbody>
+</table>

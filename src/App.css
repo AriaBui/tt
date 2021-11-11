@@ -1,0 +1,108 @@
+body {
+  background-image: url('../src/assets/background-tv.png')
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.Scoreboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div > .Ornament{
+  height: 25vh;
+  width: 25vh;
+
+}
+
+.Ornament:nth-child(1) {
+  position: relative;
+  bottom: -11.2rem;
+  left: 6.9rem;
+}
+
+.Ornament:nth-child(2) {
+  position: relative;
+  bottom: -6rem;
+  left: -9.9rem;
+}
+
+.Ornament:nth-child(3) {
+  position: relative;
+  bottom: -1.2rem;
+  left: 14rem;
+}
+
+.Ornament:nth-child(4) {
+  position: relative;
+  bottom: 2.3rem;
+  left: -15rem;
+}
+
+div > .Star {
+  height: 40vh;
+  width: 40vh;
+  animation: star-spin 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes star-spin {
+  0% {
+    transform: rotateY(360deg);
+    transform:scaleX(0);
+ }
+ 50%{
+  transform: scaleX(-1);
+ }
+  
+  100%{
+    transform: rotateY(0deg);
+    transform:scaleX(0);
+  }
+}
+
+.d-flex {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  bottom: 100vh;
+}
+
+.decoration{
+  position: relative;
+}
+
+.gingerbread{
+  position: absolute;
+  top: -700px;
+  left: 350px;
+}
+
+.snowman{
+  position: absolute;
+  top: -560px;
+  left: 460px;
+}
+
+.candycane1{
+  position: absolute;
+  top: -400px;
+  left: 320px;
+}
+
+.candycane2{
+  position: absolute;
+  top: -300px;
+  left: 460px;
+}
+
+.tree > svg{
+  width: 74vh;
+  height: 63vh;
+}

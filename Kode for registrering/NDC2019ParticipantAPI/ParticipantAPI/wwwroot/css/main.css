@@ -1,0 +1,36 @@
+﻿body {
+   
+      
+}
+h1 {
+    text-align:center;
+    vertical-align:middle;
+}
+img {
+    display: inline;
+}
+
+.table thead {
+    background: #111;
+    color: #fff;
+}
+
+.table tbody tr:nth-child(odd) {
+    background-color: rgba(242,242,242,0.5);
+}
+
+.avatar {
+    margin-right: 1em;
+}
+
+@media (max-width: 768px){
+    #first_logo {
+        display: none;
+    }
+    #second_logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+}

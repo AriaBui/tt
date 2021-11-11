@@ -1,0 +1,2270 @@
+[
+  {
+    "q": "I hvilket som helst programmeringsspråk, hva er den mest vanlige måten å iterere gjennom et array?",
+    "a": [
+      {
+        "text": "If' Statements",
+        "correct": false
+      },
+      {
+        "text": "Do-while' loops",
+        "correct": false
+      },
+      {
+        "text": "While' loops",
+        "correct": false
+      },
+      {
+        "text": "For' loops",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken engelsk gitarist har kallenavnet \"Slowhand\"?",
+    "a": [
+      {
+        "text": "Mark Knopfler",
+        "correct": false
+      },
+      {
+        "text": "Jeff Beck",
+        "correct": false
+      },
+      {
+        "text": "Jimmy Page",
+        "correct": false
+      },
+      {
+        "text": "Eric Clapton",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange månelandinger har det vært?",
+    "a": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva er det første grunnstoffet i den periodiske tabell?",
+    "a": [
+      {
+        "text": "Helium",
+        "correct": false
+      },
+      {
+        "text": "Oksygen",
+        "correct": false
+      },
+      {
+        "text": "Lithium",
+        "correct": false
+      },
+      {
+        "text": "Hydrogen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem har skrevet spillet \"Half-Life\"?",
+    "a": [
+      {
+        "text": "Gabe Newell",
+        "correct": false
+      },
+      {
+        "text": "Robin Walker",
+        "correct": false
+      },
+      {
+        "text": "Chet Faliszek",
+        "correct": false
+      },
+      {
+        "text": "Marc Laidlaw",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "På et dartbrett, hvilket nummer er direkte motsatt av nr. 1?",
+    "a": [
+      {
+        "text": "20",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "15",
+        "correct": false
+      },
+      {
+        "text": "19",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvis en \"360 grader\"-rotering er en full rotering, hvor mange roteringen vil en \"1080 grader\" være?",
+    "a": [
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket av disse nivåene oppstår IKKE i konsoll/PC-versjonen av spillet \"Sonic Generations\"?",
+    "a": [
+      {
+        "text": "City Escape",
+        "correct": false
+      },
+      {
+        "text": "Planet Wisp",
+        "correct": false
+      },
+      {
+        "text": "Sky Sanctuary",
+        "correct": false
+      },
+      {
+        "text": "Mushroom Hill",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken av følgende bilprodusenter har en krig oppkalt etter seg?",
+    "a": [
+      {
+        "text": "Honda",
+        "correct": false
+      },
+      {
+        "text": "Ford",
+        "correct": false
+      },
+      {
+        "text": "Volkswagen",
+        "correct": false
+      },
+      {
+        "text": "Toyota",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange tidssoner har Kina?",
+    "a": [
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "1",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva er kallenavnet til den amerikanske staten California?",
+    "a": [
+      {
+        "text": "Sunshine State",
+        "correct": false
+      },
+      {
+        "text": "Bay State",
+        "correct": false
+      },
+      {
+        "text": "Treasure State",
+        "correct": false
+      },
+      {
+        "text": "Golden State",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva er artistnavnet til den engelske kvinnelige rapperen Mathangi Arulpragasam, som er kjent for sangen \"Paper Planes\"?",
+    "a": [
+      {
+        "text": "K.I.A.",
+        "correct": false
+      },
+      {
+        "text": "C.I.A.",
+        "correct": false
+      },
+      {
+        "text": "A.I.A.",
+        "correct": false
+      },
+      {
+        "text": "M.I.A.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange mennesker er i det amerikanske representantenes hus?",
+    "a": [
+      {
+        "text": "260",
+        "correct": false
+      },
+      {
+        "text": "415",
+        "correct": false
+      },
+      {
+        "text": "50",
+        "correct": false
+      },
+      {
+        "text": "435",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem er skaperen av Super Smash Bros. Series?",
+    "a": [
+      {
+        "text": "Reggie Fils-Aimé",
+        "correct": false
+      },
+      {
+        "text": "Bill Trinen",
+        "correct": false
+      },
+      {
+        "text": "Hideo Kojima",
+        "correct": false
+      },
+      {
+        "text": "Masahiro Sakurai",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "I Shakespeare sitt stykke Julius Caesar, Caesars siste ord var...",
+    "a": [
+      {
+        "text": "Iacta alea est!",
+        "correct": false
+      },
+      {
+        "text": "Vidi, vini, vici.",
+        "correct": false
+      },
+      {
+        "text": "Aegri somnia vana.",
+        "correct": false
+      },
+      {
+        "text": "Et tu, Brute?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket programmeringsspråk vil du assosiere Django rammeverket med?",
+    "a": [
+      {
+        "text": "C#",
+        "correct": false
+      },
+      {
+        "text": "C++",
+        "correct": false
+      },
+      {
+        "text": "Java",
+        "correct": false
+      },
+      {
+        "text": "Python",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "I hvilken by er \"Space Needle\" lokalisert?",
+    "a": [
+      {
+        "text": "Los Angles",
+        "correct": false
+      },
+      {
+        "text": "Toronto",
+        "correct": false
+      },
+      {
+        "text": "Vancouver",
+        "correct": false
+      },
+      {
+        "text": "Seattle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken polsk by er kjent som Danzig for tyskerne?",
+    "a": [
+      {
+        "text": "Warsaw",
+        "correct": false
+      },
+      {
+        "text": "Zakopane",
+        "correct": false
+      },
+      {
+        "text": "Poznań",
+        "correct": false
+      },
+      {
+        "text": "Gdańsk",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Når foregår \"Rogue One: A Star Wars Story\" kronologisk i serien?",
+    "a": [
+      {
+        "text": "After Episode 6",
+        "correct": false
+      },
+      {
+        "text": "Before Episode 1",
+        "correct": false
+      },
+      {
+        "text": "Between Episode 4 and 5",
+        "correct": false
+      },
+      {
+        "text": "Between Episode 3 and 4",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem spiller i Brutal Legend?",
+    "a": [
+      {
+        "text": "Kanye West",
+        "correct": false
+      },
+      {
+        "text": "Lemmy",
+        "correct": false
+      },
+      {
+        "text": "Ozzy Osbourne",
+        "correct": false
+      },
+      {
+        "text": "Jack Black",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket av disse Disney showene er klassifisert som anime?",
+    "a": [
+      {
+        "text": "Cory in the House",
+        "correct": false
+      },
+      {
+        "text": "The Emperor's New School",
+        "correct": false
+      },
+      {
+        "text": "Hannah Montana",
+        "correct": false
+      },
+      {
+        "text": "Stitch!",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange sider har et heptagon?",
+    "a": [
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Når ble DVD oppfunnet?",
+    "a": [
+      {
+        "text": "2000",
+        "correct": false
+      },
+      {
+        "text": "1990",
+        "correct": false
+      },
+      {
+        "text": "1980",
+        "correct": false
+      },
+      {
+        "text": "1995",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva heter hovedstaden i Skottland?",
+    "a": [
+      {
+        "text": "Glasgow",
+        "correct": false
+      },
+      {
+        "text": "Dundee",
+        "correct": false
+      },
+      {
+        "text": "London",
+        "correct": false
+      },
+      {
+        "text": "Edinburgh",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva er lysets hastighet i vakuum?",
+    "a": [
+      {
+        "text": "50,461 m/s",
+        "correct": false
+      },
+      {
+        "text": "308,215,043 m/s",
+        "correct": false
+      },
+      {
+        "text": "751,665,014,151 m/s",
+        "correct": false
+      },
+      {
+        "text": "299,792,458 m/s",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket av følgende bein er ikke i leggen?",
+    "a": [
+      {
+        "text": "Patella",
+        "correct": false
+      },
+      {
+        "text": "Tibia",
+        "correct": false
+      },
+      {
+        "text": "Fibula",
+        "correct": false
+      },
+      {
+        "text": "Radius",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket bein er vanskeligst å brekke?",
+    "a": [
+      {
+        "text": "Cranium",
+        "correct": false
+      },
+      {
+        "text": "Humerus",
+        "correct": false
+      },
+      {
+        "text": "Tibia",
+        "correct": false
+      },
+      {
+        "text": "Femur",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken av følgende bøker er verdens mest solgte?",
+    "a": [
+      {
+        "text": "The Little Prince",
+        "correct": false
+      },
+      {
+        "text": "Harry Potter and the Philosopher's Stone",
+        "correct": false
+      },
+      {
+        "text": "The Da Vinci Code",
+        "correct": false
+      },
+      {
+        "text": "The Lord of the Rings",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Da Gmail først ble lansert, hvor mye lagringsplass hadde man for mail?",
+    "a": [
+      {
+        "text": "512MB",
+        "correct": false
+      },
+      {
+        "text": "5GB",
+        "correct": false
+      },
+      {
+        "text": "Ubegrenset",
+        "correct": false
+      },
+      {
+        "text": "1GB",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva heter hovedstaden i Indonesia?",
+    "a": [
+      {
+        "text": "Bandung",
+        "correct": false
+      },
+      {
+        "text": "Medan",
+        "correct": false
+      },
+      {
+        "text": "Palembang",
+        "correct": false
+      },
+      {
+        "text": "Jakarta",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken rapgruppe slapp albumet \"Straight Outta Compton\"?",
+    "a": [
+      {
+        "text": "Wu-Tang Clan",
+        "correct": false
+      },
+      {
+        "text": "Run-D.M.C.",
+        "correct": false
+      },
+      {
+        "text": "Beastie Boys",
+        "correct": false
+      },
+      {
+        "text": "N.W.A",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Programmeringsspråket \"Swift\" var laget for å erstatte hvilket programmeringsspråk?",
+    "a": [
+      {
+        "text": "C#",
+        "correct": false
+      },
+      {
+        "text": "Ruby",
+        "correct": false
+      },
+      {
+        "text": "C++",
+        "correct": false
+      },
+      {
+        "text": "Objective-C",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva er XL (romersk) ekvivalent til?",
+    "a": [
+      {
+        "text": "60",
+        "correct": false
+      },
+      {
+        "text": "15",
+        "correct": false
+      },
+      {
+        "text": "90",
+        "correct": false
+      },
+      {
+        "text": "40",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva står \"K\"-en i \"K-pop\" for?",
+    "a": [
+      {
+        "text": "Kenyan",
+        "correct": false
+      },
+      {
+        "text": "Kazakhstan",
+        "correct": false
+      },
+      {
+        "text": "Kuwaiti",
+        "correct": false
+      },
+      {
+        "text": "Korean",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva heter hovedstaden i USA?",
+    "a": [
+      {
+        "text": "Los Angelas, CA",
+        "correct": false
+      },
+      {
+        "text": "New York City, NY",
+        "correct": false
+      },
+      {
+        "text": "Houston, TX",
+        "correct": false
+      },
+      {
+        "text": "Washington, D.C.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange kopier av hvert gen har vanligvis menneskers celler?",
+    "a": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken kjendis annonserte at h*n stilte til president i 2015?",
+    "a": [
+      {
+        "text": "Donald Trump",
+        "correct": false
+      },
+      {
+        "text": "Leonardo DiCaprio",
+        "correct": false
+      },
+      {
+        "text": "Miley Cyrus",
+        "correct": false
+      },
+      {
+        "text": "Kanye West",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem er hovedvokalisten i Green Day?",
+    "a": [
+      {
+        "text": "Mike Dirnt",
+        "correct": false
+      },
+      {
+        "text": "Sean Hughes",
+        "correct": false
+      },
+      {
+        "text": "Tré Cool",
+        "correct": false
+      },
+      {
+        "text": "Billie Joe Armstrong",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva heter hovedstaden i Spania?",
+    "a": [
+      {
+        "text": "Barcelona",
+        "correct": false
+      },
+      {
+        "text": "Sevilla",
+        "correct": false
+      },
+      {
+        "text": "Toledo",
+        "correct": false
+      },
+      {
+        "text": "Madrid",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva er enheten av elektrisk resistans?",
+    "a": [
+      {
+        "text": "Mho",
+        "correct": false
+      },
+      {
+        "text": "Tesla",
+        "correct": false
+      },
+      {
+        "text": "Joule",
+        "correct": false
+      },
+      {
+        "text": "Ohm",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem var den første som spilte \"The Doctor\" i \"Doctor Who\"?",
+    "a": [
+      {
+        "text": "David Tennant",
+        "correct": false
+      },
+      {
+        "text": "Peter Capaldi",
+        "correct": false
+      },
+      {
+        "text": "Tom Baker",
+        "correct": false
+      },
+      {
+        "text": "William Hartnell",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Når ble brettspillet Twister lansert?",
+    "a": [
+      {
+        "text": "September 1965",
+        "correct": false
+      },
+      {
+        "text": "January 1969",
+        "correct": false
+      },
+      {
+        "text": "February 1966",
+        "correct": false
+      },
+      {
+        "text": "April 1966",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem hadde i 1983 en hit med sangen \"Africa\"?",
+    "a": [
+      {
+        "text": "Foreigner",
+        "correct": false
+      },
+      {
+        "text": "Steely Dan",
+        "correct": false
+      },
+      {
+        "text": "Journey",
+        "correct": false
+      },
+      {
+        "text": "Toto",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange plasser er det på et standard Monopol-brett?",
+    "a": [
+      {
+        "text": "28",
+        "correct": false
+      },
+      {
+        "text": "55",
+        "correct": false
+      },
+      {
+        "text": "36",
+        "correct": false
+      },
+      {
+        "text": "40",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva står \"S\"-en for i forkortelsen SIM, som i SIM-kort?",
+    "a": [
+      {
+        "text": "Single",
+        "correct": false
+      },
+      {
+        "text": "Secure",
+        "correct": false
+      },
+      {
+        "text": "Solid",
+        "correct": false
+      },
+      {
+        "text": "Subscriber",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange dotter er det på en terning?",
+    "a": [
+      {
+        "text": "24",
+        "correct": false
+      },
+      {
+        "text": "15",
+        "correct": false
+      },
+      {
+        "text": "18",
+        "correct": false
+      },
+      {
+        "text": "21",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken amerikansk president er avbildet på 1-dollarseddelen?",
+    "a": [
+      {
+        "text": "Thomas Jefferson",
+        "correct": false
+      },
+      {
+        "text": "Abraham Lincoln",
+        "correct": false
+      },
+      {
+        "text": "Benjamin Franklin",
+        "correct": false
+      },
+      {
+        "text": "George Washington",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor gammel var Ash Ketchum i Pokemon da han startet sin reise?",
+    "a": [
+      {
+        "text": "11",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "9",
+        "correct": false
+      },
+      {
+        "text": "10",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket primtall kommer etter 19?",
+    "a": [
+      {
+        "text": "25",
+        "correct": false
+      },
+      {
+        "text": "21",
+        "correct": false
+      },
+      {
+        "text": "27",
+        "correct": false
+      },
+      {
+        "text": "23",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva heter den eldste Disney-filmen?",
+    "a": [
+      {
+        "text": "Pinocchio",
+        "correct": false
+      },
+      {
+        "text": "Dumbo",
+        "correct": false
+      },
+      {
+        "text": "Fantasia",
+        "correct": false
+      },
+      {
+        "text": "Snow White and the Seven Dwarfs",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "I Super Mario Bros, hvem informerer Mario om at prinsessen er i et annet slott?",
+    "a": [
+      {
+        "text": "Luigi",
+        "correct": false
+      },
+      {
+        "text": "Yoshi",
+        "correct": false
+      },
+      {
+        "text": "Bowser",
+        "correct": false
+      },
+      {
+        "text": "Toad",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket Nirvana-album hadde en naken baby på coveret?",
+    "a": [
+      {
+        "text": "Bleach",
+        "correct": false
+      },
+      {
+        "text": "In Utero",
+        "correct": false
+      },
+      {
+        "text": "Incesticide",
+        "correct": false
+      },
+      {
+        "text": "Nevermind",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem var den første statsministeren i Canada?",
+    "a": [
+      {
+        "text": "John Abbott",
+        "correct": false
+      },
+      {
+        "text": "Alexander Mackenzie",
+        "correct": false
+      },
+      {
+        "text": "Robert Borden",
+        "correct": false
+      },
+      {
+        "text": "John Macdonald",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken farge er \"Ex\" i FedEx-logoen?",
+    "a": [
+      {
+        "text": "Rød",
+        "correct": false
+      },
+      {
+        "text": "Lyseblå",
+        "correct": false
+      },
+      {
+        "text": "Oransje",
+        "correct": false
+      },
+      {
+        "text": "Grønn",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva er alter-egoet til karakteren \"Superman\"?",
+    "a": [
+      {
+        "text": "Bruce Wayne",
+        "correct": false
+      },
+      {
+        "text": "Arthur Curry",
+        "correct": false
+      },
+      {
+        "text": "John Jones",
+        "correct": false
+      },
+      {
+        "text": "Clark Kent",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva står CPU for?",
+    "a": [
+      {
+        "text": "Central Process Unit",
+        "correct": false
+      },
+      {
+        "text": "Computer Personal Unit",
+        "correct": false
+      },
+      {
+        "text": "Central Processor Unit",
+        "correct": false
+      },
+      {
+        "text": "Central Processing Unit",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange brikker er på brettet i starten av en runde sjakk?",
+    "a": [
+      {
+        "text": "16",
+        "correct": false
+      },
+      {
+        "text": "20",
+        "correct": false
+      },
+      {
+        "text": "36",
+        "correct": false
+      },
+      {
+        "text": "32",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva heter traineeprogrammet til Visma Consulting?",
+    "a": [
+      {
+        "text": "Nytt Futt",
+        "correct": false
+      },
+      {
+        "text": "Gammelt Krutt",
+        "correct": false
+      },
+      {
+        "text": "Traineeprogram",
+        "correct": false
+      },
+      {
+        "text": "Nytt Krutt",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor er Visma sitt hovedkontor?",
+    "a": [
+      {
+        "text": "Helsinki",
+        "correct": false
+      },
+      {
+        "text": "New York",
+        "correct": false
+      },
+      {
+        "text": "Trondheim",
+        "correct": false
+      },
+      {
+        "text": "Oslo",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva heter Visma sin CEO?",
+    "a": [
+      {
+        "text": "Erlend Sogn",
+        "correct": false
+      },
+      {
+        "text": "Vidar Evensen",
+        "correct": false
+      },
+      {
+        "text": "Eirik Sandberg",
+        "correct": false
+      },
+      {
+        "text": "Øystein Moan",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor finner du Harvard University?",
+    "a": [
+      {
+        "text": "Providence",
+        "correct": false
+      },
+      {
+        "text": "New York",
+        "correct": false
+      },
+      {
+        "text": "Washington D.C.",
+        "correct": false
+      },
+      {
+        "text": "Cambridge",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem vant Big Brother 2014 UK?",
+    "a": [
+      {
+        "text": "Christopher Hall",
+        "correct": false
+      },
+      {
+        "text": "Pauline Bennett",
+        "correct": false
+      },
+      {
+        "text": "Pavandeep \"Pav\" Paul",
+        "correct": false
+      },
+      {
+        "text": "Helen Wood",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva står S-en for i \"NASA\"?",
+    "a": [
+      {
+        "text": "Science",
+        "correct": false
+      },
+      {
+        "text": "Society",
+        "correct": false
+      },
+      {
+        "text": "Star",
+        "correct": false
+      },
+      {
+        "text": "Space",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange bytes er i en kilobyte av RAM, i følge SI-systemet?",
+    "a": [
+      {
+        "text": "512",
+        "correct": false
+      },
+      {
+        "text": "1024",
+        "correct": false
+      },
+      {
+        "text": "500",
+        "correct": false
+      },
+      {
+        "text": "1000",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva står GHz for?",
+    "a": [
+      {
+        "text": "Gigahotz",
+        "correct": false
+      },
+      {
+        "text": "Gigahetz",
+        "correct": false
+      },
+      {
+        "text": "Gigahatz",
+        "correct": false
+      },
+      {
+        "text": "Gigahertz",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem er vokalist i Coldplay?",
+    "a": [
+      {
+        "text": "Chris Isaak",
+        "correct": false
+      },
+      {
+        "text": "Chris Wallace",
+        "correct": false
+      },
+      {
+        "text": "Chris Connelly",
+        "correct": false
+      },
+      {
+        "text": "Chris Martin",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken stor langløpscup i langrenn er Visma sponsor for?",
+    "a": [
+      {
+        "text": "Tour de ski",
+        "correct": false
+      },
+      {
+        "text": "VM",
+        "correct": false
+      },
+      {
+        "text": "OL",
+        "correct": false
+      },
+      {
+        "text": "Ski Classics",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva heter sykkellaget som Visma sponser?",
+    "a": [
+      {
+        "text": "Visma",
+        "correct": false
+      },
+      {
+        "text": "Jumbo-Visma",
+        "correct": false
+      },
+      {
+        "text": "Team Visma",
+        "correct": false
+      },
+      {
+        "text": "Team Jumbo-Visma",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "I hvilket år ble Visma grunnlagt?",
+    "a": [
+      {
+        "text": "1997",
+        "correct": false
+      },
+      {
+        "text": "1990",
+        "correct": false
+      },
+      {
+        "text": "2006",
+        "correct": false
+      },
+      {
+        "text": "1996",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvis du skulle kode i dette språket så kunne du kun ha skrevet 0-ere og 1-ere",
+    "a": [
+      {
+        "text": "JavaScript",
+        "correct": false
+      },
+      {
+        "text": "C++",
+        "correct": false
+      },
+      {
+        "text": "Python",
+        "correct": false
+      },
+      {
+        "text": "Binary",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket land arrangerte FIFA World Cup i 2018?",
+    "a": [
+      {
+        "text": "Tyskland",
+        "correct": false
+      },
+      {
+        "text": "USA",
+        "correct": false
+      },
+      {
+        "text": "Norge",
+        "correct": false
+      },
+      {
+        "text": "Russland",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken er en av Visma sine verdier?",
+    "a": [
+      {
+        "text": "Positivitet",
+        "correct": false
+      },
+      {
+        "text": "Fleksibilitet",
+        "correct": false
+      },
+      {
+        "text": "Godhet",
+        "correct": false
+      },
+      {
+        "text": "Lagånd",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange bein har sommerfugler?",
+    "a": [
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "0",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Når ble Minecraft lansert?",
+    "a": [
+      {
+        "text": "17. september 2009",
+        "correct": false
+      },
+      {
+        "text": "18. november 2011",
+        "correct": false
+      },
+      {
+        "text": "7. oktober 2011",
+        "correct": false
+      },
+      {
+        "text": "17. mai 2009",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange personer bor totalt i Norge, Sverige, Danmark og Finland?",
+    "a": [
+      {
+        "text": "28 millioner",
+        "correct": false
+      },
+      {
+        "text": "30 millioner",
+        "correct": false
+      },
+      {
+        "text": "23 millioner",
+        "correct": false
+      },
+      {
+        "text": "27 millioner",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "I hvilket land drikkes det mest kaffe?",
+    "a": [
+      {
+        "text": "Norge",
+        "correct": false
+      },
+      {
+        "text": "Sverige",
+        "correct": false
+      },
+      {
+        "text": "Danmark",
+        "correct": false
+      },
+      {
+        "text": "Finland",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "I hvilket land ble ostehøvelen oppfunnet?",
+    "a": [
+      {
+        "text": "Sverige",
+        "correct": false
+      },
+      {
+        "text": "Frankrike",
+        "correct": false
+      },
+      {
+        "text": "England",
+        "correct": false
+      },
+      {
+        "text": "Norge",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange kjøttboller spises det hver dag på IKEA på verdensbasis?",
+    "a": [
+      {
+        "text": "2 millioner",
+        "correct": false
+      },
+      {
+        "text": "2,2 millioner",
+        "correct": false
+      },
+      {
+        "text": "1,9 millioner",
+        "correct": false
+      },
+      {
+        "text": "1,8 millioner",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange ulike Tetris-biter finnes det?",
+    "a": [
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvordan er tallet 9 representert binært?",
+    "a": [
+      {
+        "text": "1000",
+        "correct": false
+      },
+      {
+        "text": "1110",
+        "correct": false
+      },
+      {
+        "text": "1010",
+        "correct": false
+      },
+      {
+        "text": "1001",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket type språk er HTML?",
+    "a": [
+      {
+        "text": "Macro Language",
+        "correct": false
+      },
+      {
+        "text": "Programming Language",
+        "correct": false
+      },
+      {
+        "text": "Scripting Language",
+        "correct": false
+      },
+      {
+        "text": "Markup Language",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "I webdesign, hva står CSS for?",
+    "a": [
+      {
+        "text": "Counter Strike: Source",
+        "correct": false
+      },
+      {
+        "text": "Corrective Style Sheet",
+        "correct": false
+      },
+      {
+        "text": "Computer Style Sheet",
+        "correct": false
+      },
+      {
+        "text": "Cascading Style Sheet",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Fra hvilket land kommer sangen \"Gangnam Style\"?",
+    "a": [
+      {
+        "text": "Japan",
+        "correct": false
+      },
+      {
+        "text": "Nord-Korea",
+        "correct": false
+      },
+      {
+        "text": "Kina",
+        "correct": false
+      },
+      {
+        "text": "Sør-Koera",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva står bokstavene i KFC for?",
+    "a": [
+      {
+        "text": "Kentucky Fresh Cheese",
+        "correct": false
+      },
+      {
+        "text": "Kibbled Freaky Cow",
+        "correct": false
+      },
+      {
+        "text": "Kiwi Food Cut",
+        "correct": false
+      },
+      {
+        "text": "Kentucky Fried Chicken",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The metric prefix \"atto-\" makes a measurement how much smaller than the base unit?",
+    "a": [
+      {
+        "text": "One Billionth",
+        "correct": false
+      },
+      {
+        "text": "One Quadrillionth",
+        "correct": false
+      },
+      {
+        "text": "One Septillionth",
+        "correct": false
+      },
+      {
+        "text": "One Quintillionth",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor høy er Burj Khalifa?",
+    "a": [
+      {
+        "text": "938 meter",
+        "correct": false
+      },
+      {
+        "text": "838 meter",
+        "correct": false
+      },
+      {
+        "text": "928 meter",
+        "correct": false
+      },
+      {
+        "text": "828 meter",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem vant den første sesongen av amerikanske Idol i 2002?",
+    "a": [
+      {
+        "text": "Justin Guarini",
+        "correct": false
+      },
+      {
+        "text": "Ruben Studdard",
+        "correct": false
+      },
+      {
+        "text": "Chris Daughtry",
+        "correct": false
+      },
+      {
+        "text": "Kelly Clarkson",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva heter den første James Bond-filmen?",
+    "a": [
+      {
+        "text": "Goldfinger",
+        "correct": false
+      },
+      {
+        "text": "From Russia With Love",
+        "correct": false
+      },
+      {
+        "text": "Thunderball",
+        "correct": false
+      },
+      {
+        "text": "Dr. No",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Gwyneth Paltrow har en datter som heter..?",
+    "a": [
+      {
+        "text": "Lily",
+        "correct": false
+      },
+      {
+        "text": "French",
+        "correct": false
+      },
+      {
+        "text": "Dakota",
+        "correct": false
+      },
+      {
+        "text": "Apple",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva står LTS for på programvaremarkedet?",
+    "a": [
+      {
+        "text": "Long Taco Service",
+        "correct": false
+      },
+      {
+        "text": "Ludicrous Transfer Speed",
+        "correct": false
+      },
+      {
+        "text": "Ludicrous Turbo Speed",
+        "correct": false
+      },
+      {
+        "text": "Long Term Support",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken er IKKE en bok i Harry Potter-serien?",
+    "a": [
+      {
+        "text": "The Chamber of Secrets",
+        "correct": false
+      },
+      {
+        "text": "The Prisoner of Azkaban",
+        "correct": false
+      },
+      {
+        "text": "The Deathly Hallows",
+        "correct": false
+      },
+      {
+        "text": "The House Elf",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken land er det nest største på verdensbasis?",
+    "a": [
+      {
+        "text": "Russland",
+        "correct": false
+      },
+      {
+        "text": "Kina",
+        "correct": false
+      },
+      {
+        "text": "USA",
+        "correct": false
+      },
+      {
+        "text": "Canada",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was Dorothy's surname in 'The Wizard Of Oz'?",
+    "a": [
+      {
+        "text": "Perkins",
+        "correct": false
+      },
+      {
+        "text": "Day",
+        "correct": false
+      },
+      {
+        "text": "Parker",
+        "correct": false
+      },
+      {
+        "text": "Gale",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange planeter er det i solsystemet vårt?",
+    "a": [
+      {
+        "text": "7",
+        "correct": false
+      },
+      {
+        "text": "9",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "8",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange poeng scorte LeBron James i hans første NBA-kamp?",
+    "a": [
+      {
+        "text": "19",
+        "correct": false
+      },
+      {
+        "text": "69",
+        "correct": false
+      },
+      {
+        "text": "41",
+        "correct": false
+      },
+      {
+        "text": "25",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Aubrey Graham er bedre kjent som ",
+    "a": [
+      {
+        "text": "Travis Scott",
+        "correct": false
+      },
+      {
+        "text": "Lil Wayne",
+        "correct": false
+      },
+      {
+        "text": "2 Chainz",
+        "correct": false
+      },
+      {
+        "text": "Drake",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem spiller Po i Kung Fu Panda-filmene?",
+    "a": [
+      {
+        "text": "Mirana Jonnes",
+        "correct": false
+      },
+      {
+        "text": "McConahey Ramses",
+        "correct": false
+      },
+      {
+        "text": "Jim Petersson",
+        "correct": false
+      },
+      {
+        "text": "Jack Black",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket land skal arrangere sommer-OL i 2020?",
+    "a": [
+      {
+        "text": "Kina",
+        "correct": false
+      },
+      {
+        "text": "Australia",
+        "correct": false
+      },
+      {
+        "text": "Tyskland",
+        "correct": false
+      },
+      {
+        "text": "Japan",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem vant FIFA World Cup 2014 i Brasil?",
+    "a": [
+      {
+        "text": "Argentina",
+        "correct": false
+      },
+      {
+        "text": "Brasil",
+        "correct": false
+      },
+      {
+        "text": "Norge",
+        "correct": false
+      },
+      {
+        "text": "Tyskland",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilket land grenser ikke til Østerrike?",
+    "a": [
+      {
+        "text": "Slovenia",
+        "correct": false
+      },
+      {
+        "text": "Sveits",
+        "correct": false
+      },
+      {
+        "text": "Slovakia",
+        "correct": false
+      },
+      {
+        "text": "Frankrike",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken av disse er IKKE en Disney tegneseriekarakter?",
+    "a": [
+      {
+        "text": "Donald Duck",
+        "correct": false
+      },
+      {
+        "text": "Daisy Duck",
+        "correct": false
+      },
+      {
+        "text": "Scrooge McDuck",
+        "correct": false
+      },
+      {
+        "text": "Daffy Duck",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva er kvadratroten av 49?",
+    "a": [
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "9",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvor mange kilobytes er det i 1 gigabyte?",
+    "a": [
+      {
+        "text": "1024",
+        "correct": false
+      },
+      {
+        "text": "1000",
+        "correct": false
+      },
+      {
+        "text": "1048576",
+        "correct": false
+      },
+      {
+        "text": "1000000",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvilken av følgende er IKKE en Nintendo spillkonsoll?",
+    "a": [
+      {
+        "text": "SNES",
+        "correct": false
+      },
+      {
+        "text": "Wii",
+        "correct": false
+      },
+      {
+        "text": "Switch",
+        "correct": false
+      },
+      {
+        "text": "Dreamcast",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hvem malte Mona Lisa?",
+    "a": [
+      {
+        "text": "Pablo Picasso",
+        "correct": false
+      },
+      {
+        "text": "Claude Monet",
+        "correct": false
+      },
+      {
+        "text": "Vincent van Gogh",
+        "correct": false
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "71% av jordens overflate består av..?",
+    "a": [
+      {
+        "text": "Ørken",
+        "correct": false
+      },
+      {
+        "text": "Kontinenter",
+        "correct": false
+      },
+      {
+        "text": "Skog",
+        "correct": false
+      },
+      {
+        "text": "Vann",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of New Zealand's indigenous people?",
+    "a": [
+      {
+        "text": "Vikings",
+        "correct": false
+      },
+      {
+        "text": "Polynesians",
+        "correct": false
+      },
+      {
+        "text": "Samoans",
+        "correct": false
+      },
+      {
+        "text": "Maori",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Hva er det minste landet i verden?",
+    "a": [
+      {
+        "text": "Maldivene",
+        "correct": false
+      },
+      {
+        "text": "Monaco",
+        "correct": false
+      },
+      {
+        "text": "Malta",
+        "correct": false
+      },
+      {
+        "text": "Vatikanstaten",
+        "correct": true
+      }
+    ]
+  }
+]

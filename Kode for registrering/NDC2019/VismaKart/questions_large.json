@@ -1,0 +1,10250 @@
+[
+  {
+    "q": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+    "a": [
+      {
+        "text": "The Old Man and the Sea",
+        "correct": false
+      },
+      {
+        "text": "Catcher and the Rye",
+        "correct": false
+      },
+      {
+        "text": "To Kill a Mockingbird",
+        "correct": false
+      },
+      {
+        "text": "1984",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which company did Gabe Newell work at before founding Valve Corporation?",
+    "a": [
+      {
+        "text": "Apple",
+        "correct": false
+      },
+      {
+        "text": "Google",
+        "correct": false
+      },
+      {
+        "text": "Yahoo",
+        "correct": false
+      },
+      {
+        "text": "Microsoft",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In any programming language, what is the most common way to iterate through an array?",
+    "a": [
+      {
+        "text": "'If' Statements",
+        "correct": false
+      },
+      {
+        "text": "'Do-while' loops",
+        "correct": false
+      },
+      {
+        "text": "'While' loops",
+        "correct": false
+      },
+      {
+        "text": "'For' loops",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who wrote the Sinead O`Connor hit 'Nothing Compares 2 U'?",
+    "a": [
+      {
+        "text": "Michael Jackson",
+        "correct": false
+      },
+      {
+        "text": "Cameo",
+        "correct": false
+      },
+      {
+        "text": "Rick James",
+        "correct": false
+      },
+      {
+        "text": "Prince",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which English guitarist has the nickname \"Slowhand\"?",
+    "a": [
+      {
+        "text": "Mark Knopfler",
+        "correct": false
+      },
+      {
+        "text": "Jeff Beck",
+        "correct": false
+      },
+      {
+        "text": "Jimmy Page",
+        "correct": false
+      },
+      {
+        "text": "Eric Clapton",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these is NOT a catchphrase used by Rick Sanchez in the TV show \"Rick and Morty\"?",
+    "a": [
+      {
+        "text": "Hit the sack, Jack!",
+        "correct": false
+      },
+      {
+        "text": "Rikki-Tikki-Tavi, biatch!",
+        "correct": false
+      },
+      {
+        "text": "Wubba-lubba-dub-dub!",
+        "correct": false
+      },
+      {
+        "text": "Slam dunk, nothing but net!",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many manned moon landings have there been?",
+    "a": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which game did NOT get financed via Crowdfunding?",
+    "a": [
+      {
+        "text": "Town of Salem",
+        "correct": false
+      },
+      {
+        "text": "Undertale",
+        "correct": false
+      },
+      {
+        "text": "Tower Unite",
+        "correct": false
+      },
+      {
+        "text": "Enter the Gungeon",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Area 51 is located in which US state?",
+    "a": [
+      {
+        "text": "Arizona",
+        "correct": false
+      },
+      {
+        "text": "New Mexico",
+        "correct": false
+      },
+      {
+        "text": "Utah",
+        "correct": false
+      },
+      {
+        "text": "Nevada",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the first element on the periodic table?",
+    "a": [
+      {
+        "text": "Helium",
+        "correct": false
+      },
+      {
+        "text": "Oxygen",
+        "correct": false
+      },
+      {
+        "text": "Lithium",
+        "correct": false
+      },
+      {
+        "text": "Hydrogen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?",
+    "a": [
+      {
+        "text": "Doom Engine",
+        "correct": false
+      },
+      {
+        "text": "id Engine",
+        "correct": false
+      },
+      {
+        "text": "Source Engine",
+        "correct": false
+      },
+      {
+        "text": "Quake Engine",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the protagonist in the game \"The Walking Dead: Season One\"?",
+    "a": [
+      {
+        "text": "Clementine",
+        "correct": false
+      },
+      {
+        "text": "Kenny",
+        "correct": false
+      },
+      {
+        "text": "Rick Grimes",
+        "correct": false
+      },
+      {
+        "text": "Lee Everett",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the writer of the game \"Half-Life\"?",
+    "a": [
+      {
+        "text": "Gabe Newell",
+        "correct": false
+      },
+      {
+        "text": "Robin Walker",
+        "correct": false
+      },
+      {
+        "text": "Chet Faliszek",
+        "correct": false
+      },
+      {
+        "text": "Marc Laidlaw",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "On a dartboard, what number is directly opposite No. 1?",
+    "a": [
+      {
+        "text": "20",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "15",
+        "correct": false
+      },
+      {
+        "text": "19",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "If a \"360 no-scope\" is one full rotation before shooting, how many rotations would a \"1080 no-scope\" be?",
+    "a": [
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these levels does NOT appear in the console/PC versions of the game \"Sonic Generations\"?",
+    "a": [
+      {
+        "text": "City Escape",
+        "correct": false
+      },
+      {
+        "text": "Planet Wisp",
+        "correct": false
+      },
+      {
+        "text": "Sky Sanctuary",
+        "correct": false
+      },
+      {
+        "text": "Mushroom Hill",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+    "a": [
+      {
+        "text": "HD Graphics 700 ",
+        "correct": false
+      },
+      {
+        "text": "HD Graphics 600",
+        "correct": false
+      },
+      {
+        "text": "HD Graphics 7000",
+        "correct": false
+      },
+      {
+        "text": "HD Graphics 500",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following car manufacturers had a war named after it?",
+    "a": [
+      {
+        "text": "Honda",
+        "correct": false
+      },
+      {
+        "text": "Ford",
+        "correct": false
+      },
+      {
+        "text": "Volkswagen",
+        "correct": false
+      },
+      {
+        "text": "Toyota",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Russian oblast forms a border with Poland?",
+    "a": [
+      {
+        "text": "Samara",
+        "correct": false
+      },
+      {
+        "text": "Nizhny Novgorod",
+        "correct": false
+      },
+      {
+        "text": "Omsk",
+        "correct": false
+      },
+      {
+        "text": "Kaliningrad",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following former Yugoslavian states is landlocked?",
+    "a": [
+      {
+        "text": "Bosnia and Herzegovina",
+        "correct": false
+      },
+      {
+        "text": "Montenegro",
+        "correct": false
+      },
+      {
+        "text": "Croatia",
+        "correct": false
+      },
+      {
+        "text": "Serbia",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
+    "a": [
+      {
+        "text": "David Hayter",
+        "correct": false
+      },
+      {
+        "text": "Norman Reedus",
+        "correct": false
+      },
+      {
+        "text": "Hideo Kojima",
+        "correct": false
+      },
+      {
+        "text": "Kiefer Sutherland",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many time zones does China have?",
+    "a": [
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "1",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the 2002 video game \"Kingdom Hearts\", how many Keyblades are usable?",
+    "a": [
+      {
+        "text": "13",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": false
+      },
+      {
+        "text": "15",
+        "correct": false
+      },
+      {
+        "text": "18",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the nickname of the US state of California?",
+    "a": [
+      {
+        "text": "Sunshine State",
+        "correct": false
+      },
+      {
+        "text": "Bay State",
+        "correct": false
+      },
+      {
+        "text": "Treasure State",
+        "correct": false
+      },
+      {
+        "text": "Golden State",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song \"Paper Planes\"?",
+    "a": [
+      {
+        "text": "K.I.A.",
+        "correct": false
+      },
+      {
+        "text": "C.I.A.",
+        "correct": false
+      },
+      {
+        "text": "A.I.A.",
+        "correct": false
+      },
+      {
+        "text": "M.I.A.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many people are in the U.S. House of Representatives?",
+    "a": [
+      {
+        "text": "260",
+        "correct": false
+      },
+      {
+        "text": "415",
+        "correct": false
+      },
+      {
+        "text": "50",
+        "correct": false
+      },
+      {
+        "text": "435",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the creator of the Super Smash Bros. Series?",
+    "a": [
+      {
+        "text": "Reggie Fils-Aimé",
+        "correct": false
+      },
+      {
+        "text": "Bill Trinen",
+        "correct": false
+      },
+      {
+        "text": "Hideo Kojima",
+        "correct": false
+      },
+      {
+        "text": "Masahiro Sakurai",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Shakespeare's play Julius Caesar, Caesar's last words were...",
+    "a": [
+      {
+        "text": "Iacta alea est!",
+        "correct": false
+      },
+      {
+        "text": "Vidi, vini, vici.",
+        "correct": false
+      },
+      {
+        "text": "Aegri somnia vana.",
+        "correct": false
+      },
+      {
+        "text": "Et tu, Brute? ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who created the Cartoon Network series \"Adventure Time\"?",
+    "a": [
+      {
+        "text": "J. G. Quintel",
+        "correct": false
+      },
+      {
+        "text": "Ben Bocquelet",
+        "correct": false
+      },
+      {
+        "text": "Rebecca Sugar",
+        "correct": false
+      },
+      {
+        "text": "Pendleton Ward",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the anime Seven Deadly Sins what is the name of one of the sins?",
+    "a": [
+      {
+        "text": "Sakura",
+        "correct": false
+      },
+      {
+        "text": "Ayano",
+        "correct": false
+      },
+      {
+        "text": "Sheska",
+        "correct": false
+      },
+      {
+        "text": "Diane",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the game Battleblock Theater, what was the name of the voice actor who voiced the narrator?",
+    "a": [
+      {
+        "text": "Steve Blum",
+        "correct": false
+      },
+      {
+        "text": "Richard Epcar",
+        "correct": false
+      },
+      {
+        "text": "Yuri Lowenthal",
+        "correct": false
+      },
+      {
+        "text": "Will Stamper",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of the peninsula containing Spain and Portugal?",
+    "a": [
+      {
+        "text": "European Peninsula",
+        "correct": false
+      },
+      {
+        "text": "Peloponnesian Peninsula",
+        "correct": false
+      },
+      {
+        "text": "Scandinavian Peninsula",
+        "correct": false
+      },
+      {
+        "text": "Iberian Peninsula",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which computer language would you associate Django framework with?",
+    "a": [
+      {
+        "text": "C#",
+        "correct": false
+      },
+      {
+        "text": "C++",
+        "correct": false
+      },
+      {
+        "text": "Java",
+        "correct": false
+      },
+      {
+        "text": "Python",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In \"A Certain Scientific Railgun\", how many \"sisters\" did Accelerator have to kill to achieve the rumored level 6?",
+    "a": [
+      {
+        "text": "128",
+        "correct": false
+      },
+      {
+        "text": "10,000",
+        "correct": false
+      },
+      {
+        "text": "5,000",
+        "correct": false
+      },
+      {
+        "text": "20,000",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The Space Needle is located in which city?",
+    "a": [
+      {
+        "text": "Los Angles",
+        "correct": false
+      },
+      {
+        "text": "Toronto",
+        "correct": false
+      },
+      {
+        "text": "Vancouver",
+        "correct": false
+      },
+      {
+        "text": "Seattle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the Polish city known to Germans as Danzig?",
+    "a": [
+      {
+        "text": "Warsaw",
+        "correct": false
+      },
+      {
+        "text": "Zakopane",
+        "correct": false
+      },
+      {
+        "text": "Poznań",
+        "correct": false
+      },
+      {
+        "text": "Gdańsk",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When does \"Rogue One: A Star Wars Story\" take place chronologically in the series?",
+    "a": [
+      {
+        "text": "After Episode 6",
+        "correct": false
+      },
+      {
+        "text": "Before Episode 1",
+        "correct": false
+      },
+      {
+        "text": "Between Episode 4 and 5",
+        "correct": false
+      },
+      {
+        "text": "Between Episode 3 and 4",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the 1992 film \"Army of Darkness\", what name does Ash give to his double-barreled shotgun?",
+    "a": [
+      {
+        "text": "Bloomstick",
+        "correct": false
+      },
+      {
+        "text": "Blastbranch",
+        "correct": false
+      },
+      {
+        "text": "2-Pump Chump",
+        "correct": false
+      },
+      {
+        "text": "Boomstick",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who stars in Brutal Legend?",
+    "a": [
+      {
+        "text": "Kanye West",
+        "correct": false
+      },
+      {
+        "text": "Lemmy",
+        "correct": false
+      },
+      {
+        "text": "Ozzy Osbourne",
+        "correct": false
+      },
+      {
+        "text": "Jack Black",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which \"Fallout: New Vegas\" quest is NOT named after a real-life song?",
+    "a": [
+      {
+        "text": "Come Fly With Me",
+        "correct": false
+      },
+      {
+        "text": "Ain't That a Kick in the Head",
+        "correct": false
+      },
+      {
+        "text": "Ring-a-Ding Ding",
+        "correct": false
+      },
+      {
+        "text": "They Went That-a-Way",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Aperture Science CEO Cave Johnson is voiced by which American actor?",
+    "a": [
+      {
+        "text": "Nolan North",
+        "correct": false
+      },
+      {
+        "text": "John Patrick Lowrie",
+        "correct": false
+      },
+      {
+        "text": "Christopher Lloyd",
+        "correct": false
+      },
+      {
+        "text": "J.K. Simmons",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these Disney shows is classified as an anime?",
+    "a": [
+      {
+        "text": "Cory in the House",
+        "correct": false
+      },
+      {
+        "text": "The Emperor's New School",
+        "correct": false
+      },
+      {
+        "text": "Hannah Montana",
+        "correct": false
+      },
+      {
+        "text": "Stitch!",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many sides does a heptagon have?",
+    "a": [
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When was the DVD invented?",
+    "a": [
+      {
+        "text": "2000",
+        "correct": false
+      },
+      {
+        "text": "1990",
+        "correct": false
+      },
+      {
+        "text": "1980",
+        "correct": false
+      },
+      {
+        "text": "1995",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "These two countries held a commonwealth from the 16th to 18th century.",
+    "a": [
+      {
+        "text": "Hutu and Rwanda",
+        "correct": false
+      },
+      {
+        "text": "North Korea and South Korea",
+        "correct": false
+      },
+      {
+        "text": "Bangladesh and Bhutan",
+        "correct": false
+      },
+      {
+        "text": "Poland and Lithuania",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the boss round featured in the \"Call Of Duty: Zombies\" map \"Five\"?",
+    "a": [
+      {
+        "text": "Hellhounds",
+        "correct": false
+      },
+      {
+        "text": "Jumping Jacks",
+        "correct": false
+      },
+      {
+        "text": "Napalm Zombie",
+        "correct": false
+      },
+      {
+        "text": "The Pentagon Thief",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
+    "a": [
+      {
+        "text": "Frasier",
+        "correct": false
+      },
+      {
+        "text": "Becker",
+        "correct": false
+      },
+      {
+        "text": "Friends",
+        "correct": false
+      },
+      {
+        "text": "Seinfeld",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the capital of Scotland?",
+    "a": [
+      {
+        "text": "Glasgow",
+        "correct": false
+      },
+      {
+        "text": "Dundee",
+        "correct": false
+      },
+      {
+        "text": "London",
+        "correct": false
+      },
+      {
+        "text": "Edinburgh",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the hardest possible difficulty in \"Deus Ex: Mankind Divided\"?",
+    "a": [
+      {
+        "text": "Nightmare",
+        "correct": false
+      },
+      {
+        "text": "Extreme",
+        "correct": false
+      },
+      {
+        "text": "Guru",
+        "correct": false
+      },
+      {
+        "text": "I Never Asked For This",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the speed of light in a vacuum?",
+    "a": [
+      {
+        "text": "50,461 m/s",
+        "correct": false
+      },
+      {
+        "text": "308,215,043 m/s",
+        "correct": false
+      },
+      {
+        "text": "751,665,014,151 m/s",
+        "correct": false
+      },
+      {
+        "text": "299,792,458 m/s",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following bones is not in the leg?",
+    "a": [
+      {
+        "text": "Patella",
+        "correct": false
+      },
+      {
+        "text": "Tibia",
+        "correct": false
+      },
+      {
+        "text": "Fibula ",
+        "correct": false
+      },
+      {
+        "text": "Radius",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these bones is hardest to break?",
+    "a": [
+      {
+        "text": "Cranium",
+        "correct": false
+      },
+      {
+        "text": "Humerus",
+        "correct": false
+      },
+      {
+        "text": "Tibia",
+        "correct": false
+      },
+      {
+        "text": "Femur",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Named after a character he played in a 1969 film, what is the name of the ski resort in Utah that Robert Redford bought in 1968?",
+    "a": [
+      {
+        "text": "Woodward",
+        "correct": false
+      },
+      {
+        "text": "Turner",
+        "correct": false
+      },
+      {
+        "text": "Booker",
+        "correct": false
+      },
+      {
+        "text": "Sundance",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following is the world's best-selling book?",
+    "a": [
+      {
+        "text": "The Little Prince",
+        "correct": false
+      },
+      {
+        "text": "Harry Potter and the Philosopher's Stone",
+        "correct": false
+      },
+      {
+        "text": "The Da Vinci Code",
+        "correct": false
+      },
+      {
+        "text": "The Lord of the Rings",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When Gmail first launched, how much storage did it provide for your email?",
+    "a": [
+      {
+        "text": "512MB",
+        "correct": false
+      },
+      {
+        "text": "5GB",
+        "correct": false
+      },
+      {
+        "text": "Unlimited",
+        "correct": false
+      },
+      {
+        "text": "1GB",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the capital of Indonesia?",
+    "a": [
+      {
+        "text": "Bandung",
+        "correct": false
+      },
+      {
+        "text": "Medan",
+        "correct": false
+      },
+      {
+        "text": "Palembang",
+        "correct": false
+      },
+      {
+        "text": "Jakarta",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which rap group released the album \"Straight Outta Compton\"?",
+    "a": [
+      {
+        "text": "Wu-Tang Clan",
+        "correct": false
+      },
+      {
+        "text": "Run-D.M.C.",
+        "correct": false
+      },
+      {
+        "text": "Beastie Boys",
+        "correct": false
+      },
+      {
+        "text": "N.W.A",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The Red Hot Chili Pepper song \"Give It Away\" is from what album?",
+    "a": [
+      {
+        "text": "One Hot Minute",
+        "correct": false
+      },
+      {
+        "text": "By the Way",
+        "correct": false
+      },
+      {
+        "text": "Stadium Arcadium",
+        "correct": false
+      },
+      {
+        "text": "Blood Sugar Sex Magik",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The programming language 'Swift' was created to replace what other programming language?",
+    "a": [
+      {
+        "text": "C#",
+        "correct": false
+      },
+      {
+        "text": "Ruby",
+        "correct": false
+      },
+      {
+        "text": "C++",
+        "correct": false
+      },
+      {
+        "text": "Objective-C",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Blinky, Pinky, Inky and Clyde are characters from which classic video game?",
+    "a": [
+      {
+        "text": "Gauntlet",
+        "correct": false
+      },
+      {
+        "text": "Space Invaders",
+        "correct": false
+      },
+      {
+        "text": "Street Fighter",
+        "correct": false
+      },
+      {
+        "text": "Pac-Man",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Roman Numerals, what does XL equate to?",
+    "a": [
+      {
+        "text": "60",
+        "correct": false
+      },
+      {
+        "text": "15",
+        "correct": false
+      },
+      {
+        "text": "90",
+        "correct": false
+      },
+      {
+        "text": "40",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the main ship used by Commander Shepard in the Mass Effect Franchise called?",
+    "a": [
+      {
+        "text": "Osiris",
+        "correct": false
+      },
+      {
+        "text": "Infinity",
+        "correct": false
+      },
+      {
+        "text": "Endeavour",
+        "correct": false
+      },
+      {
+        "text": "Normandy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following European languages is classified as a \"language isolate?\"",
+    "a": [
+      {
+        "text": "Galician",
+        "correct": false
+      },
+      {
+        "text": "Maltese",
+        "correct": false
+      },
+      {
+        "text": "Hungarian",
+        "correct": false
+      },
+      {
+        "text": "Basque",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which student in Yandere Simulator is known for asking irritating and stupid questions?",
+    "a": [
+      {
+        "text": "Kokona Hruka",
+        "correct": false
+      },
+      {
+        "text": "Oka Ruto",
+        "correct": false
+      },
+      {
+        "text": "Pipi Osu",
+        "correct": false
+      },
+      {
+        "text": "Midori Gurin",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The original Roman alphabet lacked the following letters EXCEPT:",
+    "a": [
+      {
+        "text": "W",
+        "correct": false
+      },
+      {
+        "text": "U",
+        "correct": false
+      },
+      {
+        "text": "J",
+        "correct": false
+      },
+      {
+        "text": "X",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who won the 2015 Formula 1 World Championship?",
+    "a": [
+      {
+        "text": "Nico Rosberg",
+        "correct": false
+      },
+      {
+        "text": "Sebastian Vettel",
+        "correct": false
+      },
+      {
+        "text": "Jenson Button",
+        "correct": false
+      },
+      {
+        "text": "Lewis Hamilton",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the true moon princess in Sailor Moon?",
+    "a": [
+      {
+        "text": "Sailor Venus",
+        "correct": false
+      },
+      {
+        "text": "Sailor Mars",
+        "correct": false
+      },
+      {
+        "text": "Sailor Jupiter",
+        "correct": false
+      },
+      {
+        "text": "Sailor Moon",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?",
+    "a": [
+      {
+        "text": "Arm",
+        "correct": false
+      },
+      {
+        "text": "Leg",
+        "correct": false
+      },
+      {
+        "text": "Chest",
+        "correct": false
+      },
+      {
+        "text": "Head",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The \"K\" in \"K-Pop\" stands for which word?",
+    "a": [
+      {
+        "text": "Kenyan",
+        "correct": false
+      },
+      {
+        "text": "Kazakhstan",
+        "correct": false
+      },
+      {
+        "text": "Kuwaiti",
+        "correct": false
+      },
+      {
+        "text": "Korean",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is Gabe Newell's favorite class in Team Fortress 2?",
+    "a": [
+      {
+        "text": "Heavy",
+        "correct": false
+      },
+      {
+        "text": "Medic",
+        "correct": false
+      },
+      {
+        "text": "Pyro",
+        "correct": false
+      },
+      {
+        "text": "Spy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the protagonist in Dead Rising (2006)?",
+    "a": [
+      {
+        "text": "Chuck Greene",
+        "correct": false
+      },
+      {
+        "text": "John North",
+        "correct": false
+      },
+      {
+        "text": "Jason Grey",
+        "correct": false
+      },
+      {
+        "text": "Frank West",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the main character with yellow hair in the anime Naruto?",
+    "a": [
+      {
+        "text": "Ten Ten",
+        "correct": false
+      },
+      {
+        "text": "Sasuke",
+        "correct": false
+      },
+      {
+        "text": "Kakashi",
+        "correct": false
+      },
+      {
+        "text": "Naruto",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The Touhou Project series of games is often associated with which genre?",
+    "a": [
+      {
+        "text": "Strategy",
+        "correct": false
+      },
+      {
+        "text": "FPS",
+        "correct": false
+      },
+      {
+        "text": "Casual",
+        "correct": false
+      },
+      {
+        "text": "Shoot 'em up",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the Capital of the United States?",
+    "a": [
+      {
+        "text": "Los Angelas, CA",
+        "correct": false
+      },
+      {
+        "text": "New York City, NY",
+        "correct": false
+      },
+      {
+        "text": "Houston, TX",
+        "correct": false
+      },
+      {
+        "text": "Washington, D.C.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Human cells typically have how many copies of each gene?",
+    "a": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
+    "a": [
+      {
+        "text": "Innovation",
+        "correct": false
+      },
+      {
+        "text": "Revolution",
+        "correct": false
+      },
+      {
+        "text": "Bravery",
+        "correct": false
+      },
+      {
+        "text": "Courage",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the default alias that Princess Garnet goes by in Final Fantasy IX?",
+    "a": [
+      {
+        "text": "Dirk",
+        "correct": false
+      },
+      {
+        "text": "Garnet",
+        "correct": false
+      },
+      {
+        "text": "Quina",
+        "correct": false
+      },
+      {
+        "text": "Dagger",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Danganronpa: Trigger Happy Havoc, what is the protagonist's name?",
+    "a": [
+      {
+        "text": "Hajime Hinata",
+        "correct": false
+      },
+      {
+        "text": "Nagito Komaeda",
+        "correct": false
+      },
+      {
+        "text": "Komaru Naegi",
+        "correct": false
+      },
+      {
+        "text": "Makoto Naegi",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following was NOT a playable character in the game Kingdom Hearts: Birth by Sleep?",
+    "a": [
+      {
+        "text": "Ventus",
+        "correct": false
+      },
+      {
+        "text": "Terra",
+        "correct": false
+      },
+      {
+        "text": "Aqua",
+        "correct": false
+      },
+      {
+        "text": "Ignis",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the real name of the famous spanish humorist, El Risitas?",
+    "a": [
+      {
+        "text": "Gabriel Garcia Marquez",
+        "correct": false
+      },
+      {
+        "text": "Jesus Quintero",
+        "correct": false
+      },
+      {
+        "text": "Ernesto Guevara",
+        "correct": false
+      },
+      {
+        "text": "Juan Joya Borga",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which celebrity announced his presidency in 2015?",
+    "a": [
+      {
+        "text": "Donald Trump",
+        "correct": false
+      },
+      {
+        "text": "Leonardo DiCaprio",
+        "correct": false
+      },
+      {
+        "text": "Miley Cyrus",
+        "correct": false
+      },
+      {
+        "text": "Kanye West",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What album did Bon Iver release in 2016?",
+    "a": [
+      {
+        "text": "Bon Iver, Bon Iver",
+        "correct": false
+      },
+      {
+        "text": "Blood Bank EP",
+        "correct": false
+      },
+      {
+        "text": "For Emma, Forever Ago",
+        "correct": false
+      },
+      {
+        "text": "22, A Million",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the lead singer of Green Day?",
+    "a": [
+      {
+        "text": "Mike Dirnt",
+        "correct": false
+      },
+      {
+        "text": "Sean Hughes",
+        "correct": false
+      },
+      {
+        "text": "Tré Cool",
+        "correct": false
+      },
+      {
+        "text": "Billie Joe Armstrong",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the capital of Spain?",
+    "a": [
+      {
+        "text": "Barcelona",
+        "correct": false
+      },
+      {
+        "text": "Sevilla",
+        "correct": false
+      },
+      {
+        "text": "Toledo",
+        "correct": false
+      },
+      {
+        "text": "Madrid",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Teenage Mutant Ninja Turtle traditionally wears an orange bandana?",
+    "a": [
+      {
+        "text": "Leonardo",
+        "correct": false
+      },
+      {
+        "text": "Donatello",
+        "correct": false
+      },
+      {
+        "text": "Raphael",
+        "correct": false
+      },
+      {
+        "text": "Michelangelo",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "\"Doctor Who\" star David Tennant performed in a rendition of which Shakespearean play?",
+    "a": [
+      {
+        "text": "The Tempest",
+        "correct": false
+      },
+      {
+        "text": "Othello",
+        "correct": false
+      },
+      {
+        "text": "The Taming of the Shrew",
+        "correct": false
+      },
+      {
+        "text": "Hamlet",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is Everest's favorite food in the Nickelodeon/Nick Jr. series \"PAW Patrol\"?",
+    "a": [
+      {
+        "text": "Chicken",
+        "correct": false
+      },
+      {
+        "text": "Steak",
+        "correct": false
+      },
+      {
+        "text": "Caribou",
+        "correct": false
+      },
+      {
+        "text": "Liver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When was the top-down online RPG \"Space Station 13\" released?",
+    "a": [
+      {
+        "text": "2000",
+        "correct": false
+      },
+      {
+        "text": "2010",
+        "correct": false
+      },
+      {
+        "text": "2006",
+        "correct": false
+      },
+      {
+        "text": "2003",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the unit of electrical resistance?",
+    "a": [
+      {
+        "text": "Mho",
+        "correct": false
+      },
+      {
+        "text": "Tesla",
+        "correct": false
+      },
+      {
+        "text": "Joule",
+        "correct": false
+      },
+      {
+        "text": "Ohm",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of the island that \"Jurassic Park\" is built on?",
+    "a": [
+      {
+        "text": "Isla Sorna",
+        "correct": false
+      },
+      {
+        "text": "Isla Muerta",
+        "correct": false
+      },
+      {
+        "text": "Isla Pena",
+        "correct": false
+      },
+      {
+        "text": "Isla Nublar",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "For the film \"Raiders of The Lost Ark\", what was Harrison Ford sick with during the filming of the Cairo chase?",
+    "a": [
+      {
+        "text": "Anemia",
+        "correct": false
+      },
+      {
+        "text": "Constipation",
+        "correct": false
+      },
+      {
+        "text": "Acid Reflux ",
+        "correct": false
+      },
+      {
+        "text": "Dysentery",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who was the first ever actor to play \"The Doctor\" on \"Doctor Who\"?",
+    "a": [
+      {
+        "text": "David Tennant",
+        "correct": false
+      },
+      {
+        "text": "Peter Capaldi",
+        "correct": false
+      },
+      {
+        "text": "Tom Baker",
+        "correct": false
+      },
+      {
+        "text": "William Hartnell",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When was the board game Twister, released to the public?",
+    "a": [
+      {
+        "text": "September 1965",
+        "correct": false
+      },
+      {
+        "text": "January 1969",
+        "correct": false
+      },
+      {
+        "text": "February 1966",
+        "correct": false
+      },
+      {
+        "text": "April 1966",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When was the first official international game played?",
+    "a": [
+      {
+        "text": "1880",
+        "correct": false
+      },
+      {
+        "text": "1863",
+        "correct": false
+      },
+      {
+        "text": "1865",
+        "correct": false
+      },
+      {
+        "text": "1872",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What breed of dog was Marley in the film \"Marley & Me\" (2008)?",
+    "a": [
+      {
+        "text": "Golden Retriever",
+        "correct": false
+      },
+      {
+        "text": "Dalmatian",
+        "correct": false
+      },
+      {
+        "text": "Shiba Inu",
+        "correct": false
+      },
+      {
+        "text": "Labrador Retriever",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which animated movie was first to feature a celebrity as a voice actor?",
+    "a": [
+      {
+        "text": "Toy Story",
+        "correct": false
+      },
+      {
+        "text": "James and the Giant Peach",
+        "correct": false
+      },
+      {
+        "text": "The Hunchback of Notre Dame",
+        "correct": false
+      },
+      {
+        "text": "Aladdin",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who had a 1983 hit with the song 'Africa'?",
+    "a": [
+      {
+        "text": "Foreigner",
+        "correct": false
+      },
+      {
+        "text": "Steely Dan",
+        "correct": false
+      },
+      {
+        "text": "Journey",
+        "correct": false
+      },
+      {
+        "text": "Toto",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What name is given to all baby marsupials?",
+    "a": [
+      {
+        "text": "Calf",
+        "correct": false
+      },
+      {
+        "text": "Pup",
+        "correct": false
+      },
+      {
+        "text": "Cub",
+        "correct": false
+      },
+      {
+        "text": "Joey",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many spaces are there on a standard Monopoly board?",
+    "a": [
+      {
+        "text": "28",
+        "correct": false
+      },
+      {
+        "text": "55",
+        "correct": false
+      },
+      {
+        "text": "36",
+        "correct": false
+      },
+      {
+        "text": "40",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which is the longest bone in the human body? ",
+    "a": [
+      {
+        "text": "Scapula",
+        "correct": false
+      },
+      {
+        "text": "Fibula",
+        "correct": false
+      },
+      {
+        "text": "Ulna",
+        "correct": false
+      },
+      {
+        "text": "Femur",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is Sonic's sidekick?",
+    "a": [
+      {
+        "text": "Shadow",
+        "correct": false
+      },
+      {
+        "text": "Amy",
+        "correct": false
+      },
+      {
+        "text": "Knuckles",
+        "correct": false
+      },
+      {
+        "text": "Tails",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who directed the movies \"Pulp Fiction\", \"Reservoir Dogs\" and \"Django Unchained\"?",
+    "a": [
+      {
+        "text": "Martin Scorcese",
+        "correct": false
+      },
+      {
+        "text": "Steven Spielberg",
+        "correct": false
+      },
+      {
+        "text": "James Cameron",
+        "correct": false
+      },
+      {
+        "text": "Quentin Tarantino",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many members are there in the band Nirvana?",
+    "a": [
+      {
+        "text": "Two",
+        "correct": false
+      },
+      {
+        "text": "Four",
+        "correct": false
+      },
+      {
+        "text": "Five",
+        "correct": false
+      },
+      {
+        "text": "Three",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What does the 'S' stand for in the abbreviation SIM, as in SIM card? ",
+    "a": [
+      {
+        "text": "Single",
+        "correct": false
+      },
+      {
+        "text": "Secure",
+        "correct": false
+      },
+      {
+        "text": "Solid",
+        "correct": false
+      },
+      {
+        "text": "Subscriber",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many dots are on a single die?",
+    "a": [
+      {
+        "text": "24",
+        "correct": false
+      },
+      {
+        "text": "15",
+        "correct": false
+      },
+      {
+        "text": "18",
+        "correct": false
+      },
+      {
+        "text": "21",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who wrote the novel 'Fear And Loathing In Las Vegas'?",
+    "a": [
+      {
+        "text": "F. Scott Fitzgerald",
+        "correct": false
+      },
+      {
+        "text": "Henry Miller",
+        "correct": false
+      },
+      {
+        "text": "William S. Burroughs",
+        "correct": false
+      },
+      {
+        "text": "Hunter S. Thompson",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which American president appears on a one dollar bill?",
+    "a": [
+      {
+        "text": "Thomas Jefferson",
+        "correct": false
+      },
+      {
+        "text": "Abraham Lincoln",
+        "correct": false
+      },
+      {
+        "text": "Benjamin Franklin",
+        "correct": false
+      },
+      {
+        "text": "George Washington",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+    "a": [
+      {
+        "text": "Sphere",
+        "correct": false
+      },
+      {
+        "text": "Cylinder",
+        "correct": false
+      },
+      {
+        "text": "Pyramid",
+        "correct": false
+      },
+      {
+        "text": "Cube",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "If soccer is called football in England, what is American football called in England?",
+    "a": [
+      {
+        "text": "Combball",
+        "correct": false
+      },
+      {
+        "text": "Handball",
+        "correct": false
+      },
+      {
+        "text": "Touchdown",
+        "correct": false
+      },
+      {
+        "text": "American football",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following blood vessels carries deoxygenated blood?",
+    "a": [
+      {
+        "text": "Pulmonary Vein",
+        "correct": false
+      },
+      {
+        "text": "Aorta",
+        "correct": false
+      },
+      {
+        "text": "Coronary Artery",
+        "correct": false
+      },
+      {
+        "text": "Pulmonary Artery",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When did the last episode of \"Futurama\" air?",
+    "a": [
+      {
+        "text": "December 25, 2010",
+        "correct": false
+      },
+      {
+        "text": "March 28, 1999",
+        "correct": false
+      },
+      {
+        "text": "On Going",
+        "correct": false
+      },
+      {
+        "text": "September 4, 2013",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which eSports team came first place in The International Dota 2 Championship 2016?",
+    "a": [
+      {
+        "text": "Digital Chaos",
+        "correct": false
+      },
+      {
+        "text": "Evil Geniuses",
+        "correct": false
+      },
+      {
+        "text": "Fnatic",
+        "correct": false
+      },
+      {
+        "text": "Wings Gaming",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of the stuffed lion in Bleach?",
+    "a": [
+      {
+        "text": "Jo",
+        "correct": false
+      },
+      {
+        "text": "Urdiu",
+        "correct": false
+      },
+      {
+        "text": "Chad",
+        "correct": false
+      },
+      {
+        "text": "Kon",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What does IWHBYD stand for on the skull in the Halo series?",
+    "a": [
+      {
+        "text": "I Wanna Have Babies You Down",
+        "correct": false
+      },
+      {
+        "text": "I Would Hate Being Your Driver",
+        "correct": false
+      },
+      {
+        "text": "I Would Have Bought Your Dog",
+        "correct": false
+      },
+      {
+        "text": "I Would Have Been Your Daddy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these movies did Jeff Bridges not star in?",
+    "a": [
+      {
+        "text": "Tron: Legacy",
+        "correct": false
+      },
+      {
+        "text": "The Giver",
+        "correct": false
+      },
+      {
+        "text": "True Grit",
+        "correct": false
+      },
+      {
+        "text": "The Hateful Eight",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What UK Train does NOT go over 125MPH?",
+    "a": [
+      {
+        "text": "Class 43",
+        "correct": false
+      },
+      {
+        "text": "Javelin",
+        "correct": false
+      },
+      {
+        "text": "Pendolino",
+        "correct": false
+      },
+      {
+        "text": "Sprinter",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the age of Ash Ketchum in Pokemon when he starts his journey?",
+    "a": [
+      {
+        "text": "11",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "9",
+        "correct": false
+      },
+      {
+        "text": "10",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What prime number comes next after 19?",
+    "a": [
+      {
+        "text": "25",
+        "correct": false
+      },
+      {
+        "text": "21",
+        "correct": false
+      },
+      {
+        "text": "27",
+        "correct": false
+      },
+      {
+        "text": "23",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which UK country features a dragon on their flag?",
+    "a": [
+      {
+        "text": "England",
+        "correct": false
+      },
+      {
+        "text": "North Ireland",
+        "correct": false
+      },
+      {
+        "text": "Scotland",
+        "correct": false
+      },
+      {
+        "text": "Wales",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these characters is the mascot of the video game company SEGA?",
+    "a": [
+      {
+        "text": "Dynamite Headdy",
+        "correct": false
+      },
+      {
+        "text": "Alex Kidd",
+        "correct": false
+      },
+      {
+        "text": "Opa-Opa",
+        "correct": false
+      },
+      {
+        "text": "Sonic the Hedgehog",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the oldest Disney film?",
+    "a": [
+      {
+        "text": "Pinocchio",
+        "correct": false
+      },
+      {
+        "text": "Dumbo",
+        "correct": false
+      },
+      {
+        "text": "Fantasia",
+        "correct": false
+      },
+      {
+        "text": "Snow White and the Seven Dwarfs",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Five dollars is worth how many nickles?",
+    "a": [
+      {
+        "text": "50",
+        "correct": false
+      },
+      {
+        "text": "25",
+        "correct": false
+      },
+      {
+        "text": "69",
+        "correct": false
+      },
+      {
+        "text": "100",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many seasons did \"Stargate SG-1\" have?",
+    "a": [
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "10",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these African countries list \"Spanish\" as an official language?",
+    "a": [
+      {
+        "text": "Guinea",
+        "correct": false
+      },
+      {
+        "text": "Cameroon",
+        "correct": false
+      },
+      {
+        "text": "Angola",
+        "correct": false
+      },
+      {
+        "text": "Equatorial Guinea",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The human heart has how many chambers?",
+    "a": [
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who was the author of the 1954 novel, \"Lord of the Flies\"?",
+    "a": [
+      {
+        "text": "Stephen King",
+        "correct": false
+      },
+      {
+        "text": "F. Scott Fitzgerald",
+        "correct": false
+      },
+      {
+        "text": "Hunter Fox",
+        "correct": false
+      },
+      {
+        "text": "William Golding",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the game Nuclear Throne, what character is only usable in a play through with Melting?",
+    "a": [
+      {
+        "text": "Frog",
+        "correct": false
+      },
+      {
+        "text": "Horror",
+        "correct": false
+      },
+      {
+        "text": "Plant",
+        "correct": false
+      },
+      {
+        "text": "Skeleton",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Super Mario Bros., who informs Mario that the princess is in another castle?",
+    "a": [
+      {
+        "text": "Luigi",
+        "correct": false
+      },
+      {
+        "text": "Yoshi",
+        "correct": false
+      },
+      {
+        "text": "Bowser",
+        "correct": false
+      },
+      {
+        "text": "Toad",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Nirvana album had a naked baby on the cover?",
+    "a": [
+      {
+        "text": "Bleach",
+        "correct": false
+      },
+      {
+        "text": "In Utero",
+        "correct": false
+      },
+      {
+        "text": "Incesticide",
+        "correct": false
+      },
+      {
+        "text": "Nevermind",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the video game \"Team Fortress 2\", which class is able to double jump?",
+    "a": [
+      {
+        "text": "Spy",
+        "correct": false
+      },
+      {
+        "text": "Engineer",
+        "correct": false
+      },
+      {
+        "text": "Pyro",
+        "correct": false
+      },
+      {
+        "text": "Scout",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What collaborative album was released by Kanye West and Jay-Z in 2011?",
+    "a": [
+      {
+        "text": "Distant Relatives",
+        "correct": false
+      },
+      {
+        "text": "What a Time to be Alive",
+        "correct": false
+      },
+      {
+        "text": "Unfinished Business",
+        "correct": false
+      },
+      {
+        "text": "Watch the Throne",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who was the first prime minister of Canada?",
+    "a": [
+      {
+        "text": "John Abbott",
+        "correct": false
+      },
+      {
+        "text": "Alexander Mackenzie",
+        "correct": false
+      },
+      {
+        "text": "Robert Borden",
+        "correct": false
+      },
+      {
+        "text": "John Macdonald",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "\"The Potato Sack\" was a collection of indie games released on Steam in 2011 as a promotion for which game?",
+    "a": [
+      {
+        "text": "Left 4 Dead 2",
+        "correct": false
+      },
+      {
+        "text": "Half-Life 3",
+        "correct": false
+      },
+      {
+        "text": "Dota 2",
+        "correct": false
+      },
+      {
+        "text": "Portal 2",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What color is the \"Ex\" in FedEx Ground?",
+    "a": [
+      {
+        "text": "Red",
+        "correct": false
+      },
+      {
+        "text": "Light Blue",
+        "correct": false
+      },
+      {
+        "text": "Orange",
+        "correct": true
+      },
+      {
+        "text": "Green",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "q": "What is the alter-ego of the DC comics character \"Superman\"?",
+    "a": [
+      {
+        "text": "Bruce Wayne",
+        "correct": false
+      },
+      {
+        "text": "Arthur Curry",
+        "correct": false
+      },
+      {
+        "text": "John Jones",
+        "correct": false
+      },
+      {
+        "text": "Clark Kent",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What mythology did the god \"Apollo\" come from?",
+    "a": [
+      {
+        "text": "Roman and Spanish",
+        "correct": false
+      },
+      {
+        "text": "Greek and Chinese",
+        "correct": false
+      },
+      {
+        "text": "Greek, Roman and Norse",
+        "correct": false
+      },
+      {
+        "text": "Greek and Roman",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In which fast food chain can you order a Jamocha Shake?",
+    "a": [
+      {
+        "text": "McDonald's",
+        "correct": false
+      },
+      {
+        "text": "Burger King",
+        "correct": false
+      },
+      {
+        "text": "Wendy's",
+        "correct": false
+      },
+      {
+        "text": "Arby's",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What round is a classic AK-47 chambered in?",
+    "a": [
+      {
+        "text": "7.62x51mm",
+        "correct": false
+      },
+      {
+        "text": "5.56x45mm",
+        "correct": false
+      },
+      {
+        "text": "5.45x39mm",
+        "correct": false
+      },
+      {
+        "text": "7.62x39mm",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the historical name of Sri Lanka?",
+    "a": [
+      {
+        "text": "Myanmar",
+        "correct": false
+      },
+      {
+        "text": "Colombo",
+        "correct": false
+      },
+      {
+        "text": "Badulla",
+        "correct": false
+      },
+      {
+        "text": "Ceylon",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What does CPU stand for?",
+    "a": [
+      {
+        "text": "Central Process Unit",
+        "correct": false
+      },
+      {
+        "text": "Computer Personal Unit",
+        "correct": false
+      },
+      {
+        "text": "Central Processor Unit",
+        "correct": false
+      },
+      {
+        "text": "Central Processing Unit",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which famous book is sub-titled 'The Modern Prometheus'?",
+    "a": [
+      {
+        "text": "Dracula",
+        "correct": false
+      },
+      {
+        "text": "The Strange Case of Dr. Jekyll and Mr. Hyde ",
+        "correct": false
+      },
+      {
+        "text": "The Legend of Sleepy Hollow",
+        "correct": false
+      },
+      {
+        "text": "Frankenstein",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The body of the Egyptian Sphinx was based on which animal?",
+    "a": [
+      {
+        "text": "Bull",
+        "correct": false
+      },
+      {
+        "text": "Horse",
+        "correct": false
+      },
+      {
+        "text": "Dog",
+        "correct": false
+      },
+      {
+        "text": "Lion",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of Team Fortress 2's Heavy Weapons Guy's minigun?",
+    "a": [
+      {
+        "text": "Betty",
+        "correct": false
+      },
+      {
+        "text": "Anna",
+        "correct": false
+      },
+      {
+        "text": "Diana",
+        "correct": false
+      },
+      {
+        "text": "Sasha",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many dice are used in the game of Yahtzee?",
+    "a": [
+      {
+        "text": "Four",
+        "correct": false
+      },
+      {
+        "text": "Six",
+        "correct": false
+      },
+      {
+        "text": "Eight",
+        "correct": false
+      },
+      {
+        "text": "Five",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the lead singer of Pearl Jam?",
+    "a": [
+      {
+        "text": "Ozzy Osbourne",
+        "correct": false
+      },
+      {
+        "text": "Stone Gossard",
+        "correct": false
+      },
+      {
+        "text": "Kurt Cobain",
+        "correct": false
+      },
+      {
+        "text": "Eddie Vedder",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is Pikachu's National PokéDex Number?",
+    "a": [
+      {
+        "text": "#001",
+        "correct": false
+      },
+      {
+        "text": "#031",
+        "correct": false
+      },
+      {
+        "text": "#109",
+        "correct": false
+      },
+      {
+        "text": "#025",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the name of the cancelled sequel of Team Fortress?",
+    "a": [
+      {
+        "text": "Team Fortress 2: Desert Mercenaries",
+        "correct": false
+      },
+      {
+        "text": "Team Fortress 2: Operation Gear Grinder",
+        "correct": false
+      },
+      {
+        "text": "Team Fortress 2: Return to Classic",
+        "correct": false
+      },
+      {
+        "text": "Team Fortress 2: Brotherhood of Arms",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the creator of the comic series \"The Walking Dead\"?",
+    "a": [
+      {
+        "text": "Stan Lee",
+        "correct": false
+      },
+      {
+        "text": "Malcolm Wheeler-Nicholson",
+        "correct": false
+      },
+      {
+        "text": "Robert Crumb",
+        "correct": false
+      },
+      {
+        "text": "Robert Kirkman",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many pieces are there on the board at the start of a game of chess?",
+    "a": [
+      {
+        "text": "16",
+        "correct": false
+      },
+      {
+        "text": "20",
+        "correct": false
+      },
+      {
+        "text": "36",
+        "correct": false
+      },
+      {
+        "text": "32",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who made Garry's Mod?",
+    "a": [
+      {
+        "text": "Randy Newman",
+        "correct": false
+      },
+      {
+        "text": "Facepunch Studios",
+        "correct": false
+      },
+      {
+        "text": "Gabe Newell",
+        "correct": false
+      },
+      {
+        "text": "Garry Newman",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "This movie contains the quote, \"I feel the need ... the need for speed!\"",
+    "a": [
+      {
+        "text": "Days of Thunder",
+        "correct": false
+      },
+      {
+        "text": "The Color of Money",
+        "correct": false
+      },
+      {
+        "text": "Cocktail",
+        "correct": false
+      },
+      {
+        "text": "Top Gun",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What does the Prt Sc button do?",
+    "a": [
+      {
+        "text": "Nothing",
+        "correct": false
+      },
+      {
+        "text": "Saves a .png file of what's on the screen in your screenshots folder in photos",
+        "correct": false
+      },
+      {
+        "text": "Closes all windows",
+        "correct": false
+      },
+      {
+        "text": "Captures what's on the screen and copies it to your clipboard",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of Finnish DJ Darude's hit single released in October 1999?",
+    "a": [
+      {
+        "text": "Dust Devil",
+        "correct": false
+      },
+      {
+        "text": "Sirocco",
+        "correct": false
+      },
+      {
+        "text": "Khamsin",
+        "correct": false
+      },
+      {
+        "text": "Sandstorm",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In \"Inuyasha\", what are the heros are looking to collect?",
+    "a": [
+      {
+        "text": "Dragon Balls",
+        "correct": false
+      },
+      {
+        "text": "Rave Stones",
+        "correct": false
+      },
+      {
+        "text": "Sacred Stones",
+        "correct": false
+      },
+      {
+        "text": "Jewel Shards",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When was the game 'Portal 2' released?",
+    "a": [
+      {
+        "text": "2014",
+        "correct": false
+      },
+      {
+        "text": "2009",
+        "correct": false
+      },
+      {
+        "text": "2007",
+        "correct": false
+      },
+      {
+        "text": "2011",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In 1720, England was in massive debt, and became in involved in the South Sea Bubble. Who was the main mastermind behind it?",
+    "a": [
+      {
+        "text": "Daniel Defoe",
+        "correct": false
+      },
+      {
+        "text": "Robert Harley",
+        "correct": false
+      },
+      {
+        "text": "John Churchill",
+        "correct": false
+      },
+      {
+        "text": "John Blunt",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Rocket League is a game which features..",
+    "a": [
+      {
+        "text": "Helicopters",
+        "correct": false
+      },
+      {
+        "text": "Planes",
+        "correct": false
+      },
+      {
+        "text": "Submarines",
+        "correct": false
+      },
+      {
+        "text": "Cars",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the movie \"Cast Away\" the main protagonist's best friend while on the island is named",
+    "a": [
+      {
+        "text": "Carson",
+        "correct": false
+      },
+      {
+        "text": "Jackson",
+        "correct": false
+      },
+      {
+        "text": "Willy",
+        "correct": false
+      },
+      {
+        "text": "Wilson",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the nickname for the US state Delaware?",
+    "a": [
+      {
+        "text": "The Fiftieth State",
+        "correct": false
+      },
+      {
+        "text": "The Second State",
+        "correct": false
+      },
+      {
+        "text": "The Sixteenth State",
+        "correct": false
+      },
+      {
+        "text": "The First State",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is depicted on the US hundred dollar bill?",
+    "a": [
+      {
+        "text": "George Washington",
+        "correct": false
+      },
+      {
+        "text": "Abraham Lincoln",
+        "correct": false
+      },
+      {
+        "text": "Thomas Jefferson",
+        "correct": false
+      },
+      {
+        "text": "Benjamin Franklin",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who was the Prime Minister of Japan when Japan declared war on the US?",
+    "a": [
+      {
+        "text": "Michinomiya Hirohito",
+        "correct": false
+      },
+      {
+        "text": "Isoroku Yamamoto",
+        "correct": false
+      },
+      {
+        "text": "Fumimaro Konoe",
+        "correct": false
+      },
+      {
+        "text": "Hideki Tojo",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The starting pistol of the Terrorist team in a competitive match of Counter Strike: Global Offensive is what?",
+    "a": [
+      {
+        "text": "Tec-9",
+        "correct": false
+      },
+      {
+        "text": "Desert Eagle",
+        "correct": false
+      },
+      {
+        "text": "Dual Berretas",
+        "correct": false
+      },
+      {
+        "text": "Glock-18",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the movie \"Spaceballs\", what are the Spaceballs attempting to steal from Planet Druidia?",
+    "a": [
+      {
+        "text": "The Schwartz",
+        "correct": false
+      },
+      {
+        "text": "Princess Lonestar",
+        "correct": false
+      },
+      {
+        "text": "Meatballs",
+        "correct": false
+      },
+      {
+        "text": "Air",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What caused the titular mascot of Yo-Kai Watch, Jibanyan, to become a yokai?",
+    "a": [
+      {
+        "text": "Ate one too many chocobars",
+        "correct": false
+      },
+      {
+        "text": "Through a magical ritual",
+        "correct": false
+      },
+      {
+        "text": "When he put on the harmaki",
+        "correct": false
+      },
+      {
+        "text": "Being run over by a truck",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Harvard University is located in which city?",
+    "a": [
+      {
+        "text": "Providence",
+        "correct": false
+      },
+      {
+        "text": "New York",
+        "correct": false
+      },
+      {
+        "text": "Washington D.C.",
+        "correct": false
+      },
+      {
+        "text": "Cambridge",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "On what medium was \"Clannad\" first created?",
+    "a": [
+      {
+        "text": "Anime",
+        "correct": false
+      },
+      {
+        "text": "Manga",
+        "correct": false
+      },
+      {
+        "text": "Light novel",
+        "correct": false
+      },
+      {
+        "text": "Visual novel",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Rust, how many Timed Explosive Charges does it take to destroy a Ladder Hatch?",
+    "a": [
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "1",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What does LASER stand for?",
+    "a": [
+      {
+        "text": "Lite analysing by stereo ecorazer",
+        "correct": false
+      },
+      {
+        "text": "Light ampiflier by standby energy of radio",
+        "correct": false
+      },
+      {
+        "text": "Life antimatter by standing entry of range",
+        "correct": false
+      },
+      {
+        "text": "Light amplifiaction by stimulated eminission of radioation",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who won Big Brother 2014 UK?",
+    "a": [
+      {
+        "text": "Christopher Hall",
+        "correct": false
+      },
+      {
+        "text": "Pauline Bennett",
+        "correct": false
+      },
+      {
+        "text": "Pavandeep \"Pav\" Paul",
+        "correct": false
+      },
+      {
+        "text": "Helen Wood",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+    "a": [
+      {
+        "text": "Pope John Paul II",
+        "correct": false
+      },
+      {
+        "text": "Bang-Ding Ow",
+        "correct": false
+      },
+      {
+        "text": "Albert Putin",
+        "correct": false
+      },
+      {
+        "text": "The Polish President",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The two main characters of \"No Game No Life\", Sora and Shiro, together go by what name?",
+    "a": [
+      {
+        "text": "Immanity",
+        "correct": false
+      },
+      {
+        "text": "Disboard",
+        "correct": false
+      },
+      {
+        "text": "Warbeasts",
+        "correct": false
+      },
+      {
+        "text": "Blank",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The LS1 engine is how many cubic inches?",
+    "a": [
+      {
+        "text": "350",
+        "correct": false
+      },
+      {
+        "text": "355",
+        "correct": false
+      },
+      {
+        "text": "360",
+        "correct": false
+      },
+      {
+        "text": "346",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following is not a character in the Street Fighter series?",
+    "a": [
+      {
+        "text": "Laura Matsuda",
+        "correct": false
+      },
+      {
+        "text": "Sakura Kasugano",
+        "correct": false
+      },
+      {
+        "text": "Ibuki",
+        "correct": false
+      },
+      {
+        "text": "Mai Shiranui",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the creator of Touhou project?",
+    "a": [
+      {
+        "text": "Jun",
+        "correct": false
+      },
+      {
+        "text": "Twilight Frontier",
+        "correct": false
+      },
+      {
+        "text": "Tasofro",
+        "correct": false
+      },
+      {
+        "text": "Zun",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is Tasmania?",
+    "a": [
+      {
+        "text": "A flavor of Ben and Jerry's ice-cream",
+        "correct": false
+      },
+      {
+        "text": "A Psychological Disorder",
+        "correct": false
+      },
+      {
+        "text": "The Name of a Warner Brothers Cartoon Character",
+        "correct": false
+      },
+      {
+        "text": "An Australian State",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who led the Communist Revolution of Russia?",
+    "a": [
+      {
+        "text": "Joseph Stalin",
+        "correct": false
+      },
+      {
+        "text": "Vladimir Putin",
+        "correct": false
+      },
+      {
+        "text": "Mikhail Gorbachev",
+        "correct": false
+      },
+      {
+        "text": "Vladimir Lenin",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which game did \"Sonic The Hedgehog\" make his first appearance in?",
+    "a": [
+      {
+        "text": "Sonic The Hedgehog",
+        "correct": false
+      },
+      {
+        "text": "Super Mario 64",
+        "correct": false
+      },
+      {
+        "text": "Mega Man",
+        "correct": false
+      },
+      {
+        "text": "Rad Mobile",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the fastest  land animal?",
+    "a": [
+      {
+        "text": "Lion",
+        "correct": false
+      },
+      {
+        "text": "Thomson's Gazelle",
+        "correct": false
+      },
+      {
+        "text": "Pronghorn Antelope",
+        "correct": false
+      },
+      {
+        "text": "Cheetah",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What does the letter 'S' stand for in 'NASA'?",
+    "a": [
+      {
+        "text": "Science",
+        "correct": false
+      },
+      {
+        "text": "Society",
+        "correct": false
+      },
+      {
+        "text": "Star",
+        "correct": false
+      },
+      {
+        "text": "Space",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+    "a": [
+      {
+        "text": "512",
+        "correct": false
+      },
+      {
+        "text": "1024",
+        "correct": false
+      },
+      {
+        "text": "500",
+        "correct": false
+      },
+      {
+        "text": "1000",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What does GHz stand for?",
+    "a": [
+      {
+        "text": "Gigahotz",
+        "correct": false
+      },
+      {
+        "text": "Gigahetz",
+        "correct": false
+      },
+      {
+        "text": "Gigahatz",
+        "correct": false
+      },
+      {
+        "text": "Gigahertz",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the lead singer of the band Coldplay?",
+    "a": [
+      {
+        "text": "Chris Isaak",
+        "correct": false
+      },
+      {
+        "text": "Chris Wallace",
+        "correct": false
+      },
+      {
+        "text": "Chris Connelly",
+        "correct": false
+      },
+      {
+        "text": "Chris Martin",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "By what name is Carlos Estevez better known? ",
+    "a": [
+      {
+        "text": "Ricky Martin",
+        "correct": false
+      },
+      {
+        "text": "Bruno Mars",
+        "correct": false
+      },
+      {
+        "text": "Joaquin Phoenix",
+        "correct": false
+      },
+      {
+        "text": "Charlie Sheen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of the main healing item in Dark Souls?",
+    "a": [
+      {
+        "text": "Health Potion",
+        "correct": false
+      },
+      {
+        "text": "Orange Juice",
+        "correct": false
+      },
+      {
+        "text": "Ashen Flask",
+        "correct": false
+      },
+      {
+        "text": "Estus Flask",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+    "a": [
+      {
+        "text": "Central Processing Unit",
+        "correct": false
+      },
+      {
+        "text": "Hard Disk Drive",
+        "correct": false
+      },
+      {
+        "text": "Random Access Memory",
+        "correct": false
+      },
+      {
+        "text": "Motherboard",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In \"Undertale\", how many main endings are there?",
+    "a": [
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "13",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "If you were to code software in this language you'd only be able to type 0's and 1's.",
+    "a": [
+      {
+        "text": "JavaScript",
+        "correct": false
+      },
+      {
+        "text": "C++",
+        "correct": false
+      },
+      {
+        "text": "Python",
+        "correct": false
+      },
+      {
+        "text": "Binary",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which US state has the highest population?",
+    "a": [
+      {
+        "text": "New York",
+        "correct": false
+      },
+      {
+        "text": "Texas",
+        "correct": false
+      },
+      {
+        "text": "Florida",
+        "correct": false
+      },
+      {
+        "text": "California",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which country is hosting the 2018 FIFA World Cup?",
+    "a": [
+      {
+        "text": "Germany",
+        "correct": false
+      },
+      {
+        "text": "United States",
+        "correct": false
+      },
+      {
+        "text": "Saudi Arabia",
+        "correct": false
+      },
+      {
+        "text": "Russia",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who voices for Ruby in the animated series RWBY?",
+    "a": [
+      {
+        "text": "Tara Strong",
+        "correct": false
+      },
+      {
+        "text": "Jessica Nigri",
+        "correct": false
+      },
+      {
+        "text": "Hayden Panettiere",
+        "correct": false
+      },
+      {
+        "text": "Lindsay Jones",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many legs do butterflies have?",
+    "a": [
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "0",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the protagonist's title given by the demons in DOOM (2016)?",
+    "a": [
+      {
+        "text": "Doom Guy",
+        "correct": false
+      },
+      {
+        "text": "Doom Marine",
+        "correct": false
+      },
+      {
+        "text": "Doom Reaper",
+        "correct": false
+      },
+      {
+        "text": "Doom Slayer",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When was Minecraft first released to the public?",
+    "a": [
+      {
+        "text": "September 17th, 2009",
+        "correct": false
+      },
+      {
+        "text": "November 18th, 2011",
+        "correct": false
+      },
+      {
+        "text": "October 7th, 2011",
+        "correct": false
+      },
+      {
+        "text": "May 17th, 2009",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Gordon Freeman is said to have burnt and destroyed what food in the break room microwave?",
+    "a": [
+      {
+        "text": "Sub Sandwich",
+        "correct": false
+      },
+      {
+        "text": "Chicken Soup",
+        "correct": false
+      },
+      {
+        "text": "Pepperoni Pizza",
+        "correct": false
+      },
+      {
+        "text": "Casserole",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The \"Psycho\" series of videos on YouTube was created by which of the following?",
+    "a": [
+      {
+        "text": "Dan Bell",
+        "correct": false
+      },
+      {
+        "text": "Billy Familia",
+        "correct": false
+      },
+      {
+        "text": "VeganGainz",
+        "correct": false
+      },
+      {
+        "text": "RiDGiD STUDiOS",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who wrote the young adult novel \"The Fault in Our Stars\"?",
+    "a": [
+      {
+        "text": "Stephenie Meyer",
+        "correct": false
+      },
+      {
+        "text": "Suzanne Collins",
+        "correct": false
+      },
+      {
+        "text": "Stephen Chbosky",
+        "correct": false
+      },
+      {
+        "text": "John Green",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The name of Junko Enoshima's imposter at the beginning of Danganronpa: Trigger Happy Havoc is?",
+    "a": [
+      {
+        "text": "Ryota Mitarai",
+        "correct": false
+      },
+      {
+        "text": "Ultimate Imposter",
+        "correct": false
+      },
+      {
+        "text": "Komaru Naegi",
+        "correct": false
+      },
+      {
+        "text": "Mukuro Ikusaba",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The medical term for the belly button is which of the following?",
+    "a": [
+      {
+        "text": "Nevus",
+        "correct": false
+      },
+      {
+        "text": "Nares",
+        "correct": false
+      },
+      {
+        "text": "Paxillus",
+        "correct": false
+      },
+      {
+        "text": "Umbilicus",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many differently shaped Tetris pieces are there?",
+    "a": [
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Need for Speed: Most Wanted (2005), what was the name of the main antagonist?",
+    "a": [
+      {
+        "text": "Hector \"Ming\" Domingo",
+        "correct": false
+      },
+      {
+        "text": "Toru \"Bull\" Sato",
+        "correct": false
+      },
+      {
+        "text": "Karl \"Baron\" Smit",
+        "correct": false
+      },
+      {
+        "text": "Clarence \"Razor\" Callahan",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is Grumpy Cat's real name?",
+    "a": [
+      {
+        "text": "Sauce",
+        "correct": false
+      },
+      {
+        "text": "Minnie",
+        "correct": false
+      },
+      {
+        "text": "Broccoli",
+        "correct": false
+      },
+      {
+        "text": "Tardar Sauce",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many plays is Shakespeare generally considered to have written?",
+    "a": [
+      {
+        "text": "18",
+        "correct": false
+      },
+      {
+        "text": "54",
+        "correct": false
+      },
+      {
+        "text": "25",
+        "correct": false
+      },
+      {
+        "text": "37",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the homeworld of the Elites from Halo?",
+    "a": [
+      {
+        "text": "Te",
+        "correct": false
+      },
+      {
+        "text": "Doisac",
+        "correct": false
+      },
+      {
+        "text": "Eayn",
+        "correct": false
+      },
+      {
+        "text": "Sanghelios",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Animal Crossing game was for the Nintendo Wii?",
+    "a": [
+      {
+        "text": "Animal Crossing: New Leaf",
+        "correct": false
+      },
+      {
+        "text": "Animal Crossing: Wild World",
+        "correct": false
+      },
+      {
+        "text": "Animal Crossing: Population Growing!",
+        "correct": false
+      },
+      {
+        "text": "Animal Crossing: City Folk",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following countries was not an axis power during World War II?",
+    "a": [
+      {
+        "text": "Italy",
+        "correct": false
+      },
+      {
+        "text": "Germany",
+        "correct": false
+      },
+      {
+        "text": "Japan",
+        "correct": false
+      },
+      {
+        "text": " Soviet Union",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who created the Cartoon Network series \"Regular Show\"?",
+    "a": [
+      {
+        "text": "Ben Bocquelet",
+        "correct": false
+      },
+      {
+        "text": "Pendleton Ward",
+        "correct": false
+      },
+      {
+        "text": "Rebecca Sugar",
+        "correct": false
+      },
+      {
+        "text": "J. G. Quintel",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "British actor David Morrissey stars as which role in \"The Walking Dead\"?",
+    "a": [
+      {
+        "text": "Negan",
+        "correct": false
+      },
+      {
+        "text": "Rick Grimes",
+        "correct": false
+      },
+      {
+        "text": "Daryl Dixon",
+        "correct": false
+      },
+      {
+        "text": "The Governor",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these is not a wonder weapon in \"Call Of Duty: Zombies\"?",
+    "a": [
+      {
+        "text": "GKZ-45 Mk3",
+        "correct": false
+      },
+      {
+        "text": "Ray Gun",
+        "correct": false
+      },
+      {
+        "text": "Scavenger",
+        "correct": false
+      },
+      {
+        "text": "R115 Resonator",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these characters live in a pineapple under the sea in the cartoon \"SpongeBob SquarePants\".",
+    "a": [
+      {
+        "text": "Patrick Star",
+        "correct": false
+      },
+      {
+        "text": "Squidward Tentacles",
+        "correct": false
+      },
+      {
+        "text": "Mr. Krabs",
+        "correct": false
+      },
+      {
+        "text": "SpongeBob SquarePants ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+    "a": [
+      {
+        "text": "Gnarly.",
+        "correct": false
+      },
+      {
+        "text": "Perfect.",
+        "correct": false
+      },
+      {
+        "text": "Nice.",
+        "correct": false
+      },
+      {
+        "text": "Groovy.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who created the \"Metal Gear\" Series?",
+    "a": [
+      {
+        "text": "Hiroshi Yamauchi",
+        "correct": false
+      },
+      {
+        "text": "Shigeru Miyamoto",
+        "correct": false
+      },
+      {
+        "text": "Gunpei Yokoi",
+        "correct": false
+      },
+      {
+        "text": "Hideo Kojima",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which sign of the zodiac comes between Virgo and Scorpio?",
+    "a": [
+      {
+        "text": "Gemini",
+        "correct": false
+      },
+      {
+        "text": "Taurus",
+        "correct": false
+      },
+      {
+        "text": "Capricorn",
+        "correct": false
+      },
+      {
+        "text": "Libra",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The Alps are a mountain range on which continent?",
+    "a": [
+      {
+        "text": "North America",
+        "correct": false
+      },
+      {
+        "text": "Asia",
+        "correct": false
+      },
+      {
+        "text": "Africa",
+        "correct": false
+      },
+      {
+        "text": "Europe",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How is the number 9 represented as a binary number?",
+    "a": [
+      {
+        "text": "1000",
+        "correct": false
+      },
+      {
+        "text": "1110",
+        "correct": false
+      },
+      {
+        "text": "1010",
+        "correct": false
+      },
+      {
+        "text": "1001",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When was the movie 'Con Air' released?",
+    "a": [
+      {
+        "text": "1985",
+        "correct": false
+      },
+      {
+        "text": "1999",
+        "correct": false
+      },
+      {
+        "text": "1990",
+        "correct": false
+      },
+      {
+        "text": "1997",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who played the female lead in the 1933 film \"King Kong\"?",
+    "a": [
+      {
+        "text": "Jean Harlow",
+        "correct": false
+      },
+      {
+        "text": "Vivien Leigh",
+        "correct": false
+      },
+      {
+        "text": "Mae West",
+        "correct": false
+      },
+      {
+        "text": "Fay Wray",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "HTML is what type of language?",
+    "a": [
+      {
+        "text": "Macro Language",
+        "correct": false
+      },
+      {
+        "text": "Programming Language",
+        "correct": false
+      },
+      {
+        "text": "Scripting Language",
+        "correct": false
+      },
+      {
+        "text": "Markup Language",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What alcoholic drink is made from molasses?",
+    "a": [
+      {
+        "text": "Gin",
+        "correct": false
+      },
+      {
+        "text": "Vodka",
+        "correct": false
+      },
+      {
+        "text": "Whisky",
+        "correct": false
+      },
+      {
+        "text": "Rum",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "\"Green Eggs And Ham\" is a book by which author?",
+    "a": [
+      {
+        "text": "Beatrix Potter",
+        "correct": false
+      },
+      {
+        "text": "Roald Dahl",
+        "correct": false
+      },
+      {
+        "text": "A.A. Milne",
+        "correct": false
+      },
+      {
+        "text": "Dr. Seuss",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the powerhouse of the cell?",
+    "a": [
+      {
+        "text": "Ribosome",
+        "correct": false
+      },
+      {
+        "text": "Redbull",
+        "correct": false
+      },
+      {
+        "text": "Nucleus",
+        "correct": false
+      },
+      {
+        "text": "Mitochondria",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Grant Gustin plays which superhero on the CW show of the same name?",
+    "a": [
+      {
+        "text": "The Arrow",
+        "correct": false
+      },
+      {
+        "text": "Black Canary",
+        "correct": false
+      },
+      {
+        "text": "Daredevil",
+        "correct": false
+      },
+      {
+        "text": "The Flash",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the relationship between Rick and Morty in the show \"Rick and Morty\"?",
+    "a": [
+      {
+        "text": "Father and Son",
+        "correct": false
+      },
+      {
+        "text": "Best Friends",
+        "correct": false
+      },
+      {
+        "text": "Crimefighting Partners",
+        "correct": false
+      },
+      {
+        "text": "Grandfather and Grandson",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who was the King of Gods in Ancient Greek mythology?",
+    "a": [
+      {
+        "text": "Apollo",
+        "correct": false
+      },
+      {
+        "text": "Hermes",
+        "correct": false
+      },
+      {
+        "text": "Poseidon",
+        "correct": false
+      },
+      {
+        "text": "Zeus",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In web design, what does CSS stand for?",
+    "a": [
+      {
+        "text": "Counter Strike: Source",
+        "correct": false
+      },
+      {
+        "text": "Corrective Style Sheet",
+        "correct": false
+      },
+      {
+        "text": "Computer Style Sheet",
+        "correct": false
+      },
+      {
+        "text": "Cascading Style Sheet",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In what year was the game \"Fallout\" released?",
+    "a": [
+      {
+        "text": "1998",
+        "correct": false
+      },
+      {
+        "text": "1999",
+        "correct": false
+      },
+      {
+        "text": "1996",
+        "correct": false
+      },
+      {
+        "text": "1997",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these is NOT the name of a rival gang in the video game Saint's Row 2?",
+    "a": [
+      {
+        "text": "The Brotherhood",
+        "correct": false
+      },
+      {
+        "text": "The Ronin",
+        "correct": false
+      },
+      {
+        "text": "The Sons of Samedi",
+        "correct": false
+      },
+      {
+        "text": "The Zin Empire",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these games includes the phrase \"Do not pass Go, do not collect $200\"?",
+    "a": [
+      {
+        "text": "Pay Day",
+        "correct": false
+      },
+      {
+        "text": "Cluedo",
+        "correct": false
+      },
+      {
+        "text": "Coppit",
+        "correct": false
+      },
+      {
+        "text": "Monopoly",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In what city in the dystopia alternate future of Half-Life 2 do you first start in?",
+    "a": [
+      {
+        "text": "City 18",
+        "correct": false
+      },
+      {
+        "text": "City 6",
+        "correct": false
+      },
+      {
+        "text": "City 45",
+        "correct": false
+      },
+      {
+        "text": "City 17",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Game Boy from the Game Boy series of portable video game consoles was released first?",
+    "a": [
+      {
+        "text": "Game Boy Advance",
+        "correct": false
+      },
+      {
+        "text": "Game Boy Micro",
+        "correct": false
+      },
+      {
+        "text": "Game Boy Advance SP",
+        "correct": false
+      },
+      {
+        "text": "Game Boy Color",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Undertale, what's the prize for answering correctly?",
+    "a": [
+      {
+        "text": "New car",
+        "correct": false
+      },
+      {
+        "text": "Mercy",
+        "correct": false
+      },
+      {
+        "text": "Money",
+        "correct": false
+      },
+      {
+        "text": "More questions",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Guy's Grocery Games is hosted by which presenter?",
+    "a": [
+      {
+        "text": "Guy Martin",
+        "correct": false
+      },
+      {
+        "text": "Guy Ritchie",
+        "correct": false
+      },
+      {
+        "text": "Ainsley Harriott",
+        "correct": false
+      },
+      {
+        "text": "Guy Fieri",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the main character in the show \"Burn Notice\"?",
+    "a": [
+      {
+        "text": "Sam Axe",
+        "correct": false
+      },
+      {
+        "text": "Fiona Glenanne",
+        "correct": false
+      },
+      {
+        "text": "Madeline Westen",
+        "correct": false
+      },
+      {
+        "text": "Michael Westen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which band released songs suchs as \"Rio\", \"Girls on Film\", and \"The Reflex\"?",
+    "a": [
+      {
+        "text": "The Cure",
+        "correct": false
+      },
+      {
+        "text": "New Order",
+        "correct": false
+      },
+      {
+        "text": "Depeche Mode",
+        "correct": false
+      },
+      {
+        "text": "Duran Duran",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "From which country did the song \"Gangnam Style\" originate from?",
+    "a": [
+      {
+        "text": "Japan",
+        "correct": false
+      },
+      {
+        "text": "North Korea",
+        "correct": false
+      },
+      {
+        "text": "China",
+        "correct": false
+      },
+      {
+        "text": "South Korea",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following Elite Four members from the 6th Generation of Pokémon was a member of Team Flare?",
+    "a": [
+      {
+        "text": "Siebold",
+        "correct": false
+      },
+      {
+        "text": "Wikstrom",
+        "correct": false
+      },
+      {
+        "text": "Drasna",
+        "correct": false
+      },
+      {
+        "text": "Malva",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Kanye West's \"Gold Digger\" featured which Oscar-winning actor?",
+    "a": [
+      {
+        "text": "Alec Baldwin",
+        "correct": false
+      },
+      {
+        "text": "Dwayne Johnson",
+        "correct": false
+      },
+      {
+        "text": " Bruce Willis",
+        "correct": false
+      },
+      {
+        "text": "Jamie Foxx",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which city did the former NHL team \"The Nordiques\" originiate from?",
+    "a": [
+      {
+        "text": "Houston",
+        "correct": false
+      },
+      {
+        "text": "Montreal",
+        "correct": false
+      },
+      {
+        "text": "New York",
+        "correct": false
+      },
+      {
+        "text": "Quebec City",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What do the letters of the fast food chain KFC stand for?",
+    "a": [
+      {
+        "text": "Kentucky Fresh Cheese",
+        "correct": false
+      },
+      {
+        "text": "Kibbled Freaky Cow",
+        "correct": false
+      },
+      {
+        "text": "Kiwi Food Cut",
+        "correct": false
+      },
+      {
+        "text": "Kentucky Fried Chicken",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the 2012 animated film \"Wolf Children\", what are the names of the wolf children?",
+    "a": [
+      {
+        "text": "Hana & Yuki",
+        "correct": false
+      },
+      {
+        "text": "Ame & Hana",
+        "correct": false
+      },
+      {
+        "text": "Chuck & Anna",
+        "correct": false
+      },
+      {
+        "text": "Ame & Yuki",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following names is the \"Mega Man\" Franchise known as in Japan?",
+    "a": [
+      {
+        "text": "Paperman",
+        "correct": false
+      },
+      {
+        "text": "Scissorsman",
+        "correct": false
+      },
+      {
+        "text": "Mega Man",
+        "correct": false
+      },
+      {
+        "text": "Rockman",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The metric prefix \"atto-\" makes a measurement how much smaller than the base unit?",
+    "a": [
+      {
+        "text": "One Billionth",
+        "correct": false
+      },
+      {
+        "text": "One Quadrillionth",
+        "correct": false
+      },
+      {
+        "text": "One Septillionth",
+        "correct": false
+      },
+      {
+        "text": "One Quintillionth",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How tall is the Burj Khalifa?",
+    "a": [
+      {
+        "text": "2,717 ft",
+        "correct": false
+      },
+      {
+        "text": "2,546 ft",
+        "correct": false
+      },
+      {
+        "text": "3,024 ft",
+        "correct": false
+      },
+      {
+        "text": "2,722 ft",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What year did \"Attack on Titan\" first air?",
+    "a": [
+      {
+        "text": "2014",
+        "correct": false
+      },
+      {
+        "text": "2012",
+        "correct": false
+      },
+      {
+        "text": "2015",
+        "correct": false
+      },
+      {
+        "text": "2013",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of the game developer who created \"Call Of Duty: Zombies\"?",
+    "a": [
+      {
+        "text": "Sledgehammer Games",
+        "correct": false
+      },
+      {
+        "text": "Infinity Ward",
+        "correct": false
+      },
+      {
+        "text": "Naughty Dog",
+        "correct": false
+      },
+      {
+        "text": "Treyarch",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?",
+    "a": [
+      {
+        "text": "Kiribati",
+        "correct": false
+      },
+      {
+        "text": "Scotland",
+        "correct": false
+      },
+      {
+        "text": "Bhutan",
+        "correct": false
+      },
+      {
+        "text": "Sri Lanka",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In \"Star Trek: Voyager\", which episode did Voyager establish real-time communication with Starfleet Headquarters?",
+    "a": [
+      {
+        "text": "Message In A Bottle",
+        "correct": false
+      },
+      {
+        "text": "Someone To Watch Over Me",
+        "correct": false
+      },
+      {
+        "text": "Counterpoint",
+        "correct": false
+      },
+      {
+        "text": "Pathfinder",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following won the first season of American Idol in 2002?",
+    "a": [
+      {
+        "text": "Justin Guarini",
+        "correct": false
+      },
+      {
+        "text": "Ruben Studdard",
+        "correct": false
+      },
+      {
+        "text": "Chris Daughtry",
+        "correct": false
+      },
+      {
+        "text": "Kelly Clarkson",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which country was Josef Stalin born in?",
+    "a": [
+      {
+        "text": "Russia",
+        "correct": false
+      },
+      {
+        "text": "Germany",
+        "correct": false
+      },
+      {
+        "text": "Poland",
+        "correct": false
+      },
+      {
+        "text": "Georgia",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which city is the capital of the United States of America?",
+    "a": [
+      {
+        "text": "Seattle",
+        "correct": false
+      },
+      {
+        "text": "Albany",
+        "correct": false
+      },
+      {
+        "text": "Los Angeles",
+        "correct": false
+      },
+      {
+        "text": "Washington D.C",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who directed \"E.T. the Extra-Terrestrial\" (1982)?",
+    "a": [
+      {
+        "text": "Stanley Kubrick",
+        "correct": false
+      },
+      {
+        "text": "James Cameron",
+        "correct": false
+      },
+      {
+        "text": "Tim Burton",
+        "correct": false
+      },
+      {
+        "text": "Steven Spielberg",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who played Agent Fox Mulder in the TV sci-fi drama \"The X-Files\"?",
+    "a": [
+      {
+        "text": "Gillian Anderson",
+        "correct": false
+      },
+      {
+        "text": "Robert Patrick",
+        "correct": false
+      },
+      {
+        "text": "Mitch Pileggi",
+        "correct": false
+      },
+      {
+        "text": "David Duchovny",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the \"powerhouse\" of the Eukaryotic animal cell?",
+    "a": [
+      {
+        "text": "Nucleus",
+        "correct": false
+      },
+      {
+        "text": "Chloroplast",
+        "correct": false
+      },
+      {
+        "text": "Endoplasmic Reticulum",
+        "correct": false
+      },
+      {
+        "text": "Mitochondria",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the main character in \"The Stanley Parable\"?",
+    "a": [
+      {
+        "text": "The Adventure Line",
+        "correct": false
+      },
+      {
+        "text": "The Narrator",
+        "correct": false
+      },
+      {
+        "text": "The Boss",
+        "correct": false
+      },
+      {
+        "text": "Stanley",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the first James Bond film?",
+    "a": [
+      {
+        "text": "Goldfinger",
+        "correct": false
+      },
+      {
+        "text": "From Russia With Love",
+        "correct": false
+      },
+      {
+        "text": "Thunderball",
+        "correct": false
+      },
+      {
+        "text": "Dr. No",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "\"Tomb Raider\" icon Lara Croft was originally called...",
+    "a": [
+      {
+        "text": "Laura Craft",
+        "correct": false
+      },
+      {
+        "text": "Laura Croft",
+        "correct": false
+      },
+      {
+        "text": "Lara Craft",
+        "correct": false
+      },
+      {
+        "text": "Laura Cruz",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the code name for the mobile operating system Android 7.0?",
+    "a": [
+      {
+        "text": "Ice Cream Sandwich",
+        "correct": false
+      },
+      {
+        "text": "Jelly Bean",
+        "correct": false
+      },
+      {
+        "text": "Marshmallow",
+        "correct": false
+      },
+      {
+        "text": "Nougat",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Red Vines is a brand of what type of candy?",
+    "a": [
+      {
+        "text": "Lollipop",
+        "correct": false
+      },
+      {
+        "text": "Chocolate",
+        "correct": false
+      },
+      {
+        "text": "Bubblegum",
+        "correct": false
+      },
+      {
+        "text": "Licorice",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following collision avoidance systems helps airplanes avoid colliding with each other?",
+    "a": [
+      {
+        "text": "GPWS",
+        "correct": false
+      },
+      {
+        "text": "OCAS",
+        "correct": false
+      },
+      {
+        "text": "TAWS",
+        "correct": false
+      },
+      {
+        "text": "TCAS",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which driver has been the Formula 1 world champion for a record 7 times?",
+    "a": [
+      {
+        "text": "Ayrton Senna",
+        "correct": false
+      },
+      {
+        "text": "Fernando Alonso",
+        "correct": false
+      },
+      {
+        "text": "Jim Clark",
+        "correct": false
+      },
+      {
+        "text": "Michael Schumacher",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+    "a": [
+      {
+        "text": "0 - 1",
+        "correct": false
+      },
+      {
+        "text": "3 - 4",
+        "correct": false
+      },
+      {
+        "text": "16 - 0",
+        "correct": false
+      },
+      {
+        "text": "7 - 1",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When did the Battle of the Somme begin?",
+    "a": [
+      {
+        "text": "August 1st, 1916",
+        "correct": false
+      },
+      {
+        "text": "July 2nd, 1916",
+        "correct": false
+      },
+      {
+        "text": "June 30th, 1916",
+        "correct": false
+      },
+      {
+        "text": "July 1st, 1916",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "This Marvel superhero is often called \"The man without fear\".",
+    "a": [
+      {
+        "text": "Thor",
+        "correct": false
+      },
+      {
+        "text": "Wolverine",
+        "correct": false
+      },
+      {
+        "text": "Hulk",
+        "correct": false
+      },
+      {
+        "text": "Daredevil",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Gwyneth Paltrow has a daughter named...?",
+    "a": [
+      {
+        "text": "Lily",
+        "correct": false
+      },
+      {
+        "text": "French",
+        "correct": false
+      },
+      {
+        "text": "Dakota",
+        "correct": false
+      },
+      {
+        "text": "Apple",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+    "a": [
+      {
+        "text": "The Sign of the Four",
+        "correct": false
+      },
+      {
+        "text": "A Case of Identity",
+        "correct": false
+      },
+      {
+        "text": "The Doings of Raffles Haw",
+        "correct": false
+      },
+      {
+        "text": "A Study in Scarlet",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following characters is NOT a female marriage candidate in the game Stardew Valley?",
+    "a": [
+      {
+        "text": "Abigail",
+        "correct": false
+      },
+      {
+        "text": "Haley",
+        "correct": false
+      },
+      {
+        "text": "Leah",
+        "correct": false
+      },
+      {
+        "text": "Caroline",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the standard atomic weight of a Plutonium nucleus?",
+    "a": [
+      {
+        "text": "94",
+        "correct": false
+      },
+      {
+        "text": "481",
+        "correct": false
+      },
+      {
+        "text": "128",
+        "correct": false
+      },
+      {
+        "text": "244",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What does LTS stand for in the software market?",
+    "a": [
+      {
+        "text": "Long Taco Service",
+        "correct": false
+      },
+      {
+        "text": "Ludicrous Transfer Speed",
+        "correct": false
+      },
+      {
+        "text": "Ludicrous Turbo Speed",
+        "correct": false
+      },
+      {
+        "text": "Long Term Support",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In most traditions, who was the wife of Zeus?",
+    "a": [
+      {
+        "text": "Aphrodite",
+        "correct": false
+      },
+      {
+        "text": "Athena",
+        "correct": false
+      },
+      {
+        "text": "Hestia",
+        "correct": false
+      },
+      {
+        "text": "Hera",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which country is the home of the largest Japanese population outside of Japan?",
+    "a": [
+      {
+        "text": "China",
+        "correct": false
+      },
+      {
+        "text": "Russia",
+        "correct": false
+      },
+      {
+        "text": "The United States",
+        "correct": false
+      },
+      {
+        "text": "Brazil",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who was featured in the song \"Words\" by Feint? ",
+    "a": [
+      {
+        "text": "Anna Yvette ",
+        "correct": false
+      },
+      {
+        "text": "Danyka Nadeau",
+        "correct": false
+      },
+      {
+        "text": "Veela",
+        "correct": false
+      },
+      {
+        "text": "Laura Brehm",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was Daft Punk's first studio album?",
+    "a": [
+      {
+        "text": "Discovery",
+        "correct": false
+      },
+      {
+        "text": "Random Access Memories",
+        "correct": false
+      },
+      {
+        "text": "Human After All",
+        "correct": false
+      },
+      {
+        "text": "Homework",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of the main character in \"The Flash\" TV series?",
+    "a": [
+      {
+        "text": "Oliver Queen",
+        "correct": false
+      },
+      {
+        "text": "Bart Allen",
+        "correct": false
+      },
+      {
+        "text": "Bruce Wayne",
+        "correct": false
+      },
+      {
+        "text": "Barry Allen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Digimon, what is the Japanese name for the final evolutionary stage?",
+    "a": [
+      {
+        "text": "Mega",
+        "correct": false
+      },
+      {
+        "text": "Adult",
+        "correct": false
+      },
+      {
+        "text": "Champion",
+        "correct": false
+      },
+      {
+        "text": "Ultimate",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many seasons did the Sci-Fi television show \"Stargate Universe\" have?",
+    "a": [
+      {
+        "text": "10",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In \"Overwatch\", which hero is able to wallride?",
+    "a": [
+      {
+        "text": "Reinhardt",
+        "correct": false
+      },
+      {
+        "text": "Sombra",
+        "correct": false
+      },
+      {
+        "text": "Mercy",
+        "correct": false
+      },
+      {
+        "text": "Lucio",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which \"Call Of Duty: Zombies\" map introduced the \"Staffs Of The Ancients\"?",
+    "a": [
+      {
+        "text": "Shangri-La",
+        "correct": false
+      },
+      {
+        "text": "Revelations",
+        "correct": false
+      },
+      {
+        "text": "Nuketown",
+        "correct": false
+      },
+      {
+        "text": "Origins",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What animal takes part in Schrödinger's most famous thought experiment?",
+    "a": [
+      {
+        "text": "Dog",
+        "correct": false
+      },
+      {
+        "text": "Bat",
+        "correct": false
+      },
+      {
+        "text": "Butterfly",
+        "correct": false
+      },
+      {
+        "text": "Cat",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In which mall does \"Dead Rising\" take place?",
+    "a": [
+      {
+        "text": "Liberty Mall",
+        "correct": false
+      },
+      {
+        "text": "Twin Pines Mall",
+        "correct": false
+      },
+      {
+        "text": "Central Square Shopping Center",
+        "correct": false
+      },
+      {
+        "text": "Willamette Parkview Mall",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Neil Hamburger is played by which comedian?",
+    "a": [
+      {
+        "text": "Nathan Fielder",
+        "correct": false
+      },
+      {
+        "text": "Tim Heidecker",
+        "correct": false
+      },
+      {
+        "text": "Todd Glass",
+        "correct": false
+      },
+      {
+        "text": "Gregg Turkington",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "By which name is Ramon Estevez better known as?",
+    "a": [
+      {
+        "text": "Charlie Sheen",
+        "correct": false
+      },
+      {
+        "text": "Ramon Sheen",
+        "correct": false
+      },
+      {
+        "text": "Emilio Estevez",
+        "correct": false
+      },
+      {
+        "text": "Martin Sheen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of the main protagonist in \"Xenoblade Chronicles\"?",
+    "a": [
+      {
+        "text": "Reyn",
+        "correct": false
+      },
+      {
+        "text": "Fiora",
+        "correct": false
+      },
+      {
+        "text": "Dunban",
+        "correct": false
+      },
+      {
+        "text": "Shulk",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which is NOT a book in the Harry Potter Series?",
+    "a": [
+      {
+        "text": "The Chamber of Secrets",
+        "correct": false
+      },
+      {
+        "text": "The Prisoner of Azkaban",
+        "correct": false
+      },
+      {
+        "text": "The Deathly Hallows",
+        "correct": false
+      },
+      {
+        "text": "The House Elf",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Carcassonne is based on which French town?",
+    "a": [
+      {
+        "text": "Paris",
+        "correct": false
+      },
+      {
+        "text": "Marseille",
+        "correct": false
+      },
+      {
+        "text": "Clermont-Ferrand",
+        "correct": false
+      },
+      {
+        "text": "Carcassonne",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which company did Valve cooperate with in the creation of the Vive?",
+    "a": [
+      {
+        "text": "Oculus",
+        "correct": false
+      },
+      {
+        "text": "Google",
+        "correct": false
+      },
+      {
+        "text": "Razer",
+        "correct": false
+      },
+      {
+        "text": "HTC",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What does a funambulist walk on?",
+    "a": [
+      {
+        "text": "Broken Glass",
+        "correct": false
+      },
+      {
+        "text": "Balls",
+        "correct": false
+      },
+      {
+        "text": "The Moon",
+        "correct": false
+      },
+      {
+        "text": "A Tight Rope",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What country is the second largest in the world by area?",
+    "a": [
+      {
+        "text": "Russia",
+        "correct": false
+      },
+      {
+        "text": "China",
+        "correct": false
+      },
+      {
+        "text": "United States of America",
+        "correct": false
+      },
+      {
+        "text": "Canada",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these is a type of monster found in Minecraft?",
+    "a": [
+      {
+        "text": "Werewolf",
+        "correct": false
+      },
+      {
+        "text": "Vampire",
+        "correct": false
+      },
+      {
+        "text": "Minotaur",
+        "correct": false
+      },
+      {
+        "text": "Skeleton",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+    "a": [
+      {
+        "text": "Kawasaki",
+        "correct": false
+      },
+      {
+        "text": "Tokyo",
+        "correct": false
+      },
+      {
+        "text": "Kagoshima",
+        "correct": false
+      },
+      {
+        "text": "Nagasaki",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "On a standard Monopoly board, which square is diagonally opposite 'Go'? ",
+    "a": [
+      {
+        "text": "Go to Jail",
+        "correct": false
+      },
+      {
+        "text": "Jail",
+        "correct": false
+      },
+      {
+        "text": "The Electric Company",
+        "correct": false
+      },
+      {
+        "text": "Free Parking",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was Dorothy's surname in 'The Wizard Of Oz'?",
+    "a": [
+      {
+        "text": "Perkins",
+        "correct": false
+      },
+      {
+        "text": "Day",
+        "correct": false
+      },
+      {
+        "text": "Parker",
+        "correct": false
+      },
+      {
+        "text": "Gale",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many planets make up our Solar System?",
+    "a": [
+      {
+        "text": "7",
+        "correct": false
+      },
+      {
+        "text": "9",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "8",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the 9th Pokemon movie, who is the Prince of the Sea?",
+    "a": [
+      {
+        "text": "Ash",
+        "correct": false
+      },
+      {
+        "text": "May",
+        "correct": false
+      },
+      {
+        "text": "Phantom",
+        "correct": false
+      },
+      {
+        "text": "Manaphy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the subject of the 2014 song \"CoCo\" by American rapper O. T. Genasis?",
+    "a": [
+      {
+        "text": "Conan O'Brien",
+        "correct": false
+      },
+      {
+        "text": "Cobalt(II) carbonate",
+        "correct": false
+      },
+      {
+        "text": "Coconut cream pie",
+        "correct": false
+      },
+      {
+        "text": "Cocaine",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the first game of the Sly Cooper franchise, what family heirloom did Sly Cooper want to steal back?",
+    "a": [
+      {
+        "text": "Raccoon Training 101",
+        "correct": false
+      },
+      {
+        "text": "The Art of Sneak",
+        "correct": false
+      },
+      {
+        "text": "Raccoonus Teachus",
+        "correct": false
+      },
+      {
+        "text": "Thievius Raccoonus",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What's the Team Fortress 2 Scout's city of origin?",
+    "a": [
+      {
+        "text": "Sydney",
+        "correct": false
+      },
+      {
+        "text": "Detroit",
+        "correct": false
+      },
+      {
+        "text": "New York",
+        "correct": false
+      },
+      {
+        "text": "Boston",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these is NOT a Humongous Entertainment game franchise?",
+    "a": [
+      {
+        "text": "Pajama Sam",
+        "correct": false
+      },
+      {
+        "text": "Putt-Putt",
+        "correct": false
+      },
+      {
+        "text": "Freddi Fish",
+        "correct": false
+      },
+      {
+        "text": "Commander Keen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the 1993 Disney animated series \"Bonkers\", what is the name of Bonker's second partner?",
+    "a": [
+      {
+        "text": "Dick Tracy",
+        "correct": false
+      },
+      {
+        "text": "Eddie Valiant",
+        "correct": false
+      },
+      {
+        "text": "Dr. Ludwig von Drake",
+        "correct": false
+      },
+      {
+        "text": "Miranda Wright",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these is the name of a song by Tears for Fears?",
+    "a": [
+      {
+        "text": "Scream",
+        "correct": false
+      },
+      {
+        "text": "Yell",
+        "correct": false
+      },
+      {
+        "text": "Shriek",
+        "correct": false
+      },
+      {
+        "text": "Shout",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which one of these songs did the group \"Men At Work\" NOT make?",
+    "a": [
+      {
+        "text": "Down Under",
+        "correct": false
+      },
+      {
+        "text": "Who Can It Be Now?",
+        "correct": false
+      },
+      {
+        "text": "It's a Mistake",
+        "correct": false
+      },
+      {
+        "text": "Safety Dance",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who are the original creators of Rachet & Clank?",
+    "a": [
+      {
+        "text": "PixelTail Games",
+        "correct": false
+      },
+      {
+        "text": "Rare",
+        "correct": false
+      },
+      {
+        "text": "Bethesda",
+        "correct": false
+      },
+      {
+        "text": "Insomniac Games",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the show \"Tengen Toppa Gurren Lagann\" what is the name of the character who force everyone to live underground?",
+    "a": [
+      {
+        "text": "Kingloname",
+        "correct": false
+      },
+      {
+        "text": "Lord Genome",
+        "correct": false
+      },
+      {
+        "text": "King Loname",
+        "correct": false
+      },
+      {
+        "text": "Lordgenome",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many points did LeBron James score in his first NBA game?",
+    "a": [
+      {
+        "text": "19",
+        "correct": false
+      },
+      {
+        "text": "69",
+        "correct": false
+      },
+      {
+        "text": "41",
+        "correct": false
+      },
+      {
+        "text": "25",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Aubrey Graham is better known as",
+    "a": [
+      {
+        "text": "Travis Scott",
+        "correct": false
+      },
+      {
+        "text": "Lil Wayne",
+        "correct": false
+      },
+      {
+        "text": "2 Chainz",
+        "correct": false
+      },
+      {
+        "text": "Drake",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who performed \"I Took A Pill In Ibiza\"?",
+    "a": [
+      {
+        "text": "Avicii",
+        "correct": false
+      },
+      {
+        "text": "Robbie Williams",
+        "correct": false
+      },
+      {
+        "text": "Harry Styles",
+        "correct": false
+      },
+      {
+        "text": "Mike Posner",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who plays the character of Po in the Kung Fu Panda movies?",
+    "a": [
+      {
+        "text": "Mirana Jonnes",
+        "correct": false
+      },
+      {
+        "text": "McConahey Ramses",
+        "correct": false
+      },
+      {
+        "text": "Jim Petersson",
+        "correct": false
+      },
+      {
+        "text": "Jack Black",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the colossal titan in \"Attack On Titan\"?",
+    "a": [
+      {
+        "text": "Reiner",
+        "correct": false
+      },
+      {
+        "text": "Eren",
+        "correct": false
+      },
+      {
+        "text": "Sasha",
+        "correct": false
+      },
+      {
+        "text": "Bertolt Hoover",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who played the Waitress in the Spam sketch of \"Monty Python's Flying Circus\"?",
+    "a": [
+      {
+        "text": "Eric Idle",
+        "correct": false
+      },
+      {
+        "text": "Graham Chapman",
+        "correct": false
+      },
+      {
+        "text": "John Cleese",
+        "correct": false
+      },
+      {
+        "text": "Terry Jones",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the correct order of operations for solving equations?",
+    "a": [
+      {
+        "text": "Addition, Multiplication, Division, Subtraction, Addition, Parentheses",
+        "correct": false
+      },
+      {
+        "text": "Parentheses, Exponents, Addition, Substraction, Multiplication, Division",
+        "correct": false
+      },
+      {
+        "text": "The order in which the operations are written.",
+        "correct": false
+      },
+      {
+        "text": "Parentheses, Exponents, Multiplication, Division, Addition, Subtraction",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following presidents is not on Mount Rushmore?",
+    "a": [
+      {
+        "text": "Theodore Roosevelt",
+        "correct": false
+      },
+      {
+        "text": "Abraham Lincoln",
+        "correct": false
+      },
+      {
+        "text": "Thomas Jefferson",
+        "correct": false
+      },
+      {
+        "text": "John F. Kennedy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+    "a": [
+      {
+        "text": "SCP-001",
+        "correct": false
+      },
+      {
+        "text": "SCP-999",
+        "correct": false
+      },
+      {
+        "text": "SCP-1459",
+        "correct": false
+      },
+      {
+        "text": "SCP-173",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following movies was not based on a novel by Stephen King? ",
+    "a": [
+      {
+        "text": "Carrie",
+        "correct": false
+      },
+      {
+        "text": "Misery",
+        "correct": false
+      },
+      {
+        "text": "The Green Mile",
+        "correct": false
+      },
+      {
+        "text": "The Thing",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+    "a": [
+      {
+        "text": "Gold",
+        "correct": false
+      },
+      {
+        "text": "Juno",
+        "correct": false
+      },
+      {
+        "text": "Sword",
+        "correct": false
+      },
+      {
+        "text": "Silver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What's the best selling video game to date?",
+    "a": [
+      {
+        "text": "Wii Sports",
+        "correct": false
+      },
+      {
+        "text": "Minecraft",
+        "correct": false
+      },
+      {
+        "text": "Super Mario Bros",
+        "correct": false
+      },
+      {
+        "text": "Tetris",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Ringo Starr of The Beatles mainly played what instrument?",
+    "a": [
+      {
+        "text": "Bass",
+        "correct": false
+      },
+      {
+        "text": "Guitar",
+        "correct": false
+      },
+      {
+        "text": "Piano",
+        "correct": false
+      },
+      {
+        "text": "Drums",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these is NOT a player class in Team Fortress 2?",
+    "a": [
+      {
+        "text": "Demoman",
+        "correct": false
+      },
+      {
+        "text": "Pyro",
+        "correct": false
+      },
+      {
+        "text": "Spy",
+        "correct": false
+      },
+      {
+        "text": "Healer",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these video game engines was made by the company Epic Games?",
+    "a": [
+      {
+        "text": "Unity",
+        "correct": false
+      },
+      {
+        "text": "Game Maker: Studio",
+        "correct": false
+      },
+      {
+        "text": "Cry Engine",
+        "correct": false
+      },
+      {
+        "text": "Unreal",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which actress married Michael Douglas in 2000?",
+    "a": [
+      {
+        "text": "Ruth Jones",
+        "correct": false
+      },
+      {
+        "text": "Pam Ferris",
+        "correct": false
+      },
+      {
+        "text": "Sara Sugarman",
+        "correct": false
+      },
+      {
+        "text": "Catherine Zeta-Jones",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of the album released in 2014 by American band Maroon 5?",
+    "a": [
+      {
+        "text": "X",
+        "correct": false
+      },
+      {
+        "text": "III",
+        "correct": false
+      },
+      {
+        "text": "IV",
+        "correct": false
+      },
+      {
+        "text": "V",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "a": [
+      {
+        "text": ".png",
+        "correct": false
+      },
+      {
+        "text": ".jpeg",
+        "correct": false
+      },
+      {
+        "text": ".gif",
+        "correct": false
+      },
+      {
+        "text": ".svg",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which one of the following rhythm games was made by Harmonix?",
+    "a": [
+      {
+        "text": "Meat Beat Mania",
+        "correct": false
+      },
+      {
+        "text": "Guitar Hero Live",
+        "correct": false
+      },
+      {
+        "text": "Dance Dance Revolution",
+        "correct": false
+      },
+      {
+        "text": "Rock Band",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which country will host the 2020 Summer Olympics?",
+    "a": [
+      {
+        "text": "China",
+        "correct": false
+      },
+      {
+        "text": "Australia",
+        "correct": false
+      },
+      {
+        "text": "Germany",
+        "correct": false
+      },
+      {
+        "text": "Japan",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the first Disney movie to use CGI?",
+    "a": [
+      {
+        "text": "Tron",
+        "correct": false
+      },
+      {
+        "text": "Toy Story",
+        "correct": false
+      },
+      {
+        "text": "Fantasia",
+        "correct": false
+      },
+      {
+        "text": "The Black Cauldron",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the show Stranger Things, what is Eleven's favorite breakfast food?",
+    "a": [
+      {
+        "text": "Toast",
+        "correct": false
+      },
+      {
+        "text": "Captain Crunch",
+        "correct": false
+      },
+      {
+        "text": "Bacon and Eggs",
+        "correct": false
+      },
+      {
+        "text": "Eggo Waffles",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the show, Doctor Who, what does T.A.R.D.I.S stand for?",
+    "a": [
+      {
+        "text": "Time And Resting Dimensions In Space",
+        "correct": false
+      },
+      {
+        "text": "Time And Relative Dimensions In Style",
+        "correct": false
+      },
+      {
+        "text": "Toilet Aid Rope Dog Is Soup",
+        "correct": false
+      },
+      {
+        "text": "Time And Relative Dimensions In Space",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The asteroid belt is located between which two planets?",
+    "a": [
+      {
+        "text": "Jupiter and Saturn",
+        "correct": false
+      },
+      {
+        "text": "Mercury and Venus",
+        "correct": false
+      },
+      {
+        "text": "Earth and Mars",
+        "correct": false
+      },
+      {
+        "text": "Mars and Jupiter",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the Star Trek universe, what color is Vulcan blood?",
+    "a": [
+      {
+        "text": "Blue",
+        "correct": false
+      },
+      {
+        "text": "Red",
+        "correct": false
+      },
+      {
+        "text": "Purple",
+        "correct": false
+      },
+      {
+        "text": "Green",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In \"Future Diary\", what is the name of Yuno Gasai's Phone Diary?",
+    "a": [
+      {
+        "text": "Murder Diary",
+        "correct": false
+      },
+      {
+        "text": "Escape Diary ",
+        "correct": false
+      },
+      {
+        "text": "Justice Diary ",
+        "correct": false
+      },
+      {
+        "text": "Yukiteru Diary",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The 2016 song \"Starboy\" by Canadian singer The Weeknd features which prominent electronic artist?",
+    "a": [
+      {
+        "text": "deadmau5",
+        "correct": false
+      },
+      {
+        "text": "Disclosure",
+        "correct": false
+      },
+      {
+        "text": "DJ Shadow",
+        "correct": false
+      },
+      {
+        "text": "Daft Punk",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which team won 2014 FIFA World Cup in Brazil?",
+    "a": [
+      {
+        "text": "Argentina",
+        "correct": false
+      },
+      {
+        "text": "Brazil",
+        "correct": false
+      },
+      {
+        "text": "Netherlands",
+        "correct": false
+      },
+      {
+        "text": "Germany",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In what year was the game \"FTL: Faster Than Light\" released?",
+    "a": [
+      {
+        "text": "2014",
+        "correct": false
+      },
+      {
+        "text": "2013",
+        "correct": false
+      },
+      {
+        "text": "2011",
+        "correct": false
+      },
+      {
+        "text": "2012",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is Canada's smallest province?",
+    "a": [
+      {
+        "text": "New Brunswick",
+        "correct": false
+      },
+      {
+        "text": "Nova Scotia",
+        "correct": false
+      },
+      {
+        "text": "Yukon",
+        "correct": false
+      },
+      {
+        "text": "Prince Edward Island",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the best selling album of 2015?",
+    "a": [
+      {
+        "text": "Fetty Wap, Fetty Wap",
+        "correct": false
+      },
+      {
+        "text": "Taylor Swift, 1989",
+        "correct": false
+      },
+      {
+        "text": "Justin Bieber, Purpose",
+        "correct": false
+      },
+      {
+        "text": "Adele, 25",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which song on Daft Punk's \"Random Access Memories\" features Pharrell Williams?",
+    "a": [
+      {
+        "text": "Doin' It Right",
+        "correct": false
+      },
+      {
+        "text": "Instant Crush",
+        "correct": false
+      },
+      {
+        "text": "The Game of Love",
+        "correct": false
+      },
+      {
+        "text": "Get Lucky",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Kirby game first introduced Copy Abilities?",
+    "a": [
+      {
+        "text": "Kirby Super Star",
+        "correct": false
+      },
+      {
+        "text": "Kirby's Dream Land 2",
+        "correct": false
+      },
+      {
+        "text": "Kirby's Dream Land",
+        "correct": false
+      },
+      {
+        "text": "Kirby's Adventure",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which former boy-band star released hit solo single \"Angels\" in 1997?",
+    "a": [
+      {
+        "text": "Justin Timberlake",
+        "correct": false
+      },
+      {
+        "text": "Harry Styles",
+        "correct": false
+      },
+      {
+        "text": "Gary Barlow",
+        "correct": false
+      },
+      {
+        "text": "Robbie Williams",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In \"To Love-Ru\", Ren and Run are from what planet?",
+    "a": [
+      {
+        "text": "Deviluke",
+        "correct": false
+      },
+      {
+        "text": "Mistletoe",
+        "correct": false
+      },
+      {
+        "text": "Okiwana",
+        "correct": false
+      },
+      {
+        "text": "Memorze",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What machine element is located in the center of fidget spinners?",
+    "a": [
+      {
+        "text": "Axles",
+        "correct": false
+      },
+      {
+        "text": "Gears",
+        "correct": false
+      },
+      {
+        "text": "Belts",
+        "correct": false
+      },
+      {
+        "text": "Bearings",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the TV show \"Mad Men\", what was Donald Draper's birthname?",
+    "a": [
+      {
+        "text": "Donald Draper",
+        "correct": false
+      },
+      {
+        "text": "John Ashbury",
+        "correct": false
+      },
+      {
+        "text": "Michael \"Mikey\" Wilhelm",
+        "correct": false
+      },
+      {
+        "text": "Richard \"Dick\" Whitman",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following was Brazil was a former colony under?",
+    "a": [
+      {
+        "text": "Spain",
+        "correct": false
+      },
+      {
+        "text": "The Netherlands",
+        "correct": false
+      },
+      {
+        "text": "France",
+        "correct": false
+      },
+      {
+        "text": "Portugal",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is not a wind instrument?",
+    "a": [
+      {
+        "text": "Oboe",
+        "correct": false
+      },
+      {
+        "text": "Trombone",
+        "correct": false
+      },
+      {
+        "text": "Duduk",
+        "correct": false
+      },
+      {
+        "text": "Viola",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In South Park, what is Stan's surname?",
+    "a": [
+      {
+        "text": "Stotch",
+        "correct": false
+      },
+      {
+        "text": "Broflovski",
+        "correct": false
+      },
+      {
+        "text": "Tweak",
+        "correct": false
+      },
+      {
+        "text": "Marsh",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Canadian reggae musician had a 1993 hit with the song 'Informer'?",
+    "a": [
+      {
+        "text": "Rain",
+        "correct": false
+      },
+      {
+        "text": "Hail",
+        "correct": false
+      },
+      {
+        "text": "Sleet",
+        "correct": false
+      },
+      {
+        "text": "Snow",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the name of the sea witch in the 1989 Disney film \"The Little Mermaid\"?",
+    "a": [
+      {
+        "text": "Madam Mim",
+        "correct": false
+      },
+      {
+        "text": "Maleficent",
+        "correct": false
+      },
+      {
+        "text": "Lady Tremaine",
+        "correct": false
+      },
+      {
+        "text": "Ursula",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Rhinoplasty is a surgical procedure on what part of the human body?",
+    "a": [
+      {
+        "text": "Ears",
+        "correct": false
+      },
+      {
+        "text": "Chin",
+        "correct": false
+      },
+      {
+        "text": "Neck",
+        "correct": false
+      },
+      {
+        "text": "Nose",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which singer was featured in Jack Ü (Skrillex & Diplo)'s 2015 song 'Where Are Ü Now'?",
+    "a": [
+      {
+        "text": "Selena Gomez",
+        "correct": false
+      },
+      {
+        "text": "Ellie Goulding",
+        "correct": false
+      },
+      {
+        "text": "The Weeknd",
+        "correct": false
+      },
+      {
+        "text": "Justin Bieber",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which country does Austria not border?",
+    "a": [
+      {
+        "text": "Slovenia",
+        "correct": false
+      },
+      {
+        "text": "Switzerland",
+        "correct": false
+      },
+      {
+        "text": "Slovakia",
+        "correct": false
+      },
+      {
+        "text": "France",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many Chaos Emeralds are there in the \"Sonic the Hedgehog\" universe?",
+    "a": [
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "14",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the game Dark Souls, what is the name of the region you're in for the majority of the game?",
+    "a": [
+      {
+        "text": "Drangleic",
+        "correct": false
+      },
+      {
+        "text": "Oolacile",
+        "correct": false
+      },
+      {
+        "text": "Catarina",
+        "correct": false
+      },
+      {
+        "text": "Lordran",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these characters in \"Stranger Things\" has the power of Telekinesis?",
+    "a": [
+      {
+        "text": "Mike",
+        "correct": false
+      },
+      {
+        "text": "Lucas",
+        "correct": false
+      },
+      {
+        "text": "Karen",
+        "correct": false
+      },
+      {
+        "text": "Eleven",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who plays Alice in the Resident Evil movies?",
+    "a": [
+      {
+        "text": "Madison Derpe",
+        "correct": false
+      },
+      {
+        "text": "Milla Johnson",
+        "correct": false
+      },
+      {
+        "text": "Kim Demp",
+        "correct": false
+      },
+      {
+        "text": "Milla Jovovich",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was Ash Ketchum's second Pokemon?",
+    "a": [
+      {
+        "text": "Charmander",
+        "correct": false
+      },
+      {
+        "text": "Pikachu",
+        "correct": false
+      },
+      {
+        "text": "Pidgey",
+        "correct": false
+      },
+      {
+        "text": "Caterpie",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Automobiles produced by Telsa Motors operate on which form of energy?",
+    "a": [
+      {
+        "text": "Gasoline",
+        "correct": false
+      },
+      {
+        "text": "Diesel",
+        "correct": false
+      },
+      {
+        "text": "Nuclear",
+        "correct": false
+      },
+      {
+        "text": "Electricity",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What country is Cory in the House set in?",
+    "a": [
+      {
+        "text": "Canada",
+        "correct": false
+      },
+      {
+        "text": "Venezuala",
+        "correct": false
+      },
+      {
+        "text": "England",
+        "correct": false
+      },
+      {
+        "text": "The United States of America",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which one of these is not a typical European sword design?",
+    "a": [
+      {
+        "text": "Falchion",
+        "correct": false
+      },
+      {
+        "text": "Ulfberht",
+        "correct": false
+      },
+      {
+        "text": "Flamberge",
+        "correct": false
+      },
+      {
+        "text": "Scimitar",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the video game Overwatch, which playable character is infamous for saying \"It's high noon.\"?",
+    "a": [
+      {
+        "text": "Hanzo",
+        "correct": false
+      },
+      {
+        "text": "Pharah",
+        "correct": false
+      },
+      {
+        "text": "Soldier: 76",
+        "correct": false
+      },
+      {
+        "text": "McCree",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Pokemon generation did the fan-named \"Masuda Method\" first appear in? ",
+    "a": [
+      {
+        "text": "Ruby/Sapphire",
+        "correct": false
+      },
+      {
+        "text": "Black/White",
+        "correct": false
+      },
+      {
+        "text": "X/Y",
+        "correct": false
+      },
+      {
+        "text": "Diamond/Pearl",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following is not a Flintstones character?",
+    "a": [
+      {
+        "text": "Rockhead Slate",
+        "correct": false
+      },
+      {
+        "text": "The Great Gazoo",
+        "correct": false
+      },
+      {
+        "text": "Barney Rubble",
+        "correct": false
+      },
+      {
+        "text": "Lord Rockingham IX",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The New York Times slogan is, \"All the News That's Fit to...\"",
+    "a": [
+      {
+        "text": "Digest",
+        "correct": false
+      },
+      {
+        "text": "Look",
+        "correct": false
+      },
+      {
+        "text": "Read",
+        "correct": false
+      },
+      {
+        "text": "Print",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who turns out to be the true victor in the Battle of Armageddon in Mortal Kombat?",
+    "a": [
+      {
+        "text": "Liu Kang",
+        "correct": false
+      },
+      {
+        "text": "Shang Tsung",
+        "correct": false
+      },
+      {
+        "text": "Raiden",
+        "correct": false
+      },
+      {
+        "text": "Shao Kahn",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which car tire manufacturer is famous for its \"P Zero\" line?",
+    "a": [
+      {
+        "text": "Goodyear",
+        "correct": false
+      },
+      {
+        "text": "Bridgestone",
+        "correct": false
+      },
+      {
+        "text": "Michelin",
+        "correct": false
+      },
+      {
+        "text": "Pirelli",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following originated as a manga?",
+    "a": [
+      {
+        "text": "Cowboy Bebop",
+        "correct": false
+      },
+      {
+        "text": "High School DxD",
+        "correct": false
+      },
+      {
+        "text": "Gurren Lagann",
+        "correct": false
+      },
+      {
+        "text": "Akira",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which ocean borders the west coast of the United States?",
+    "a": [
+      {
+        "text": "Atlantic",
+        "correct": false
+      },
+      {
+        "text": "Indian",
+        "correct": false
+      },
+      {
+        "text": "Arctic",
+        "correct": false
+      },
+      {
+        "text": "Pacific",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the last name of the primary female protagonist of Final Fantasy VIII?",
+    "a": [
+      {
+        "text": "Loire",
+        "correct": false
+      },
+      {
+        "text": "Almasy",
+        "correct": false
+      },
+      {
+        "text": "Trepe",
+        "correct": false
+      },
+      {
+        "text": "Heartilly",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the capital of South Korea?",
+    "a": [
+      {
+        "text": "Pyongyang",
+        "correct": false
+      },
+      {
+        "text": "Taegu",
+        "correct": false
+      },
+      {
+        "text": "Kitakyushu",
+        "correct": false
+      },
+      {
+        "text": "Seoul",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the frontman's name of the metal band Megadeth?",
+    "a": [
+      {
+        "text": "Rob Halford",
+        "correct": false
+      },
+      {
+        "text": "Vince Neil",
+        "correct": false
+      },
+      {
+        "text": "James Hetfield",
+        "correct": false
+      },
+      {
+        "text": "Dave Mustaine",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the TV show \"Cheers\", Sam Malone was a former relief pitcher for which baseball team?",
+    "a": [
+      {
+        "text": "New York Mets",
+        "correct": false
+      },
+      {
+        "text": "Baltimore Orioles",
+        "correct": false
+      },
+      {
+        "text": "Milwaukee Brewers",
+        "correct": false
+      },
+      {
+        "text": "Boston Red Sox",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the Nintendo DS game 'Ghost Trick: Phantom Detective', what is the name of the hitman seen at the start of the game?",
+    "a": [
+      {
+        "text": "One Step Ahead Tengo",
+        "correct": false
+      },
+      {
+        "text": "Missile",
+        "correct": false
+      },
+      {
+        "text": "Cabanela",
+        "correct": false
+      },
+      {
+        "text": "Nearsighted Jeego",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the  Rossini opera, what was the name of 'The Barber of Seville'?",
+    "a": [
+      {
+        "text": "Angelo",
+        "correct": false
+      },
+      {
+        "text": "Fernando",
+        "correct": false
+      },
+      {
+        "text": "Dave",
+        "correct": false
+      },
+      {
+        "text": "Figaro",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who's the voice actor for Thrall in the Warcraft game series?",
+    "a": [
+      {
+        "text": "Ben Affleck",
+        "correct": false
+      },
+      {
+        "text": "Jason Derulo",
+        "correct": false
+      },
+      {
+        "text": "Jim Carrey",
+        "correct": false
+      },
+      {
+        "text": "Chris Metzen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the name of Captain Nemo's submarine in \"20,000 Leagues Under the Sea\"?",
+    "a": [
+      {
+        "text": "The Neptune",
+        "correct": false
+      },
+      {
+        "text": "The Poseidon  ",
+        "correct": false
+      },
+      {
+        "text": "The Atlantis",
+        "correct": false
+      },
+      {
+        "text": "The Nautilus",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The song 'Little April Shower' features in which Disney cartoon film?",
+    "a": [
+      {
+        "text": "Cinderella",
+        "correct": false
+      },
+      {
+        "text": "Pinocchio",
+        "correct": false
+      },
+      {
+        "text": "The Jungle Book",
+        "correct": false
+      },
+      {
+        "text": "Bambi",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these is NOT a Disney cartoon character?",
+    "a": [
+      {
+        "text": "Donald Duck",
+        "correct": false
+      },
+      {
+        "text": "Daisy Duck",
+        "correct": false
+      },
+      {
+        "text": "Scrooge McDuck",
+        "correct": false
+      },
+      {
+        "text": "Daffy Duck",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What's the square root of 49?",
+    "a": [
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "9",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+    "a": [
+      {
+        "text": "Florida",
+        "correct": false
+      },
+      {
+        "text": "Idaho",
+        "correct": false
+      },
+      {
+        "text": "New Mexico",
+        "correct": false
+      },
+      {
+        "text": "Ohio",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Jaguar Cars was previously owned by which car manfacturer?",
+    "a": [
+      {
+        "text": "Chrysler",
+        "correct": false
+      },
+      {
+        "text": "General Motors",
+        "correct": false
+      },
+      {
+        "text": "Fiat",
+        "correct": false
+      },
+      {
+        "text": "Ford",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The largest consumer market in 2015 was...",
+    "a": [
+      {
+        "text": "Germany",
+        "correct": false
+      },
+      {
+        "text": "Japan",
+        "correct": false
+      },
+      {
+        "text": "United Kingdom",
+        "correct": false
+      },
+      {
+        "text": "The United States of America",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Finish these lyrics from the 2016 song \"Panda\" by Desiigner: \"I got broads in _______\".",
+    "a": [
+      {
+        "text": "Savannah",
+        "correct": false
+      },
+      {
+        "text": "Augusta",
+        "correct": false
+      },
+      {
+        "text": "Marietta",
+        "correct": false
+      },
+      {
+        "text": "Atlanta",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+    "a": [
+      {
+        "text": "Soyuz 7K-OK",
+        "correct": false
+      },
+      {
+        "text": "Zenit-2",
+        "correct": false
+      },
+      {
+        "text": "Voskhod 3KV",
+        "correct": false
+      },
+      {
+        "text": "Sputnik 1",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+    "a": [
+      {
+        "text": "Mercy",
+        "correct": false
+      },
+      {
+        "text": "Winston",
+        "correct": false
+      },
+      {
+        "text": "Zenyatta",
+        "correct": false
+      },
+      {
+        "text": "Invoker",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the \"Worms\" series of video games, which of these weapons is affected by wind?",
+    "a": [
+      {
+        "text": "Grenade",
+        "correct": false
+      },
+      {
+        "text": "Air Strike",
+        "correct": false
+      },
+      {
+        "text": "Mortar",
+        "correct": false
+      },
+      {
+        "text": "Bazooka",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many kilobytes in one gigabyte?",
+    "a": [
+      {
+        "text": "1024",
+        "correct": false
+      },
+      {
+        "text": "1000",
+        "correct": false
+      },
+      {
+        "text": "1048576",
+        "correct": false
+      },
+      {
+        "text": "1000000",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Mario spin-off game did Waluigi make his debut?",
+    "a": [
+      {
+        "text": "Mario Party 3",
+        "correct": false
+      },
+      {
+        "text": "Mario Kart: Double Dash!!",
+        "correct": false
+      },
+      {
+        "text": "Mario Golf: Toadstool Tour",
+        "correct": false
+      },
+      {
+        "text": "Mario Tennis",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
+    "a": [
+      {
+        "text": "Evening",
+        "correct": false
+      },
+      {
+        "text": "Morning",
+        "correct": false
+      },
+      {
+        "text": "Afternoon",
+        "correct": false
+      },
+      {
+        "text": "Midnight",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Minecraft, which two items must be combined to craft a torch?",
+    "a": [
+      {
+        "text": "Stick and Fire",
+        "correct": false
+      },
+      {
+        "text": "Wood and Coal",
+        "correct": false
+      },
+      {
+        "text": "Wood and Fire",
+        "correct": false
+      },
+      {
+        "text": "Stick and Coal",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the game \"Hearthstone\", what is the best rank possible?",
+    "a": [
+      {
+        "text": "Rank 1 Elite",
+        "correct": false
+      },
+      {
+        "text": "Rank 1 Master",
+        "correct": false
+      },
+      {
+        "text": "Rank 1 Supreme",
+        "correct": false
+      },
+      {
+        "text": "Rank 1 Legend",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What year did World War I begin?",
+    "a": [
+      {
+        "text": "1905",
+        "correct": false
+      },
+      {
+        "text": "1919",
+        "correct": false
+      },
+      {
+        "text": "1925",
+        "correct": false
+      },
+      {
+        "text": "1914",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the release date of \"Grand Theft Auto IV\"?",
+    "a": [
+      {
+        "text": "May 21, 2009",
+        "correct": false
+      },
+      {
+        "text": "June 22, 2010",
+        "correct": false
+      },
+      {
+        "text": "July 28, 2008",
+        "correct": false
+      },
+      {
+        "text": "April 29, 2008",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which country, not including Japan, has the most people of japanese decent?",
+    "a": [
+      {
+        "text": "China",
+        "correct": false
+      },
+      {
+        "text": "South Korea",
+        "correct": false
+      },
+      {
+        "text": "United States of America",
+        "correct": false
+      },
+      {
+        "text": "Brazil",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of Chris's brother in \"Everybody Hates Chris\"?",
+    "a": [
+      {
+        "text": "Jerome",
+        "correct": false
+      },
+      {
+        "text": "Greg",
+        "correct": false
+      },
+      {
+        "text": "Joe",
+        "correct": false
+      },
+      {
+        "text": "Drew",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following is NOT a Nintendo game console?",
+    "a": [
+      {
+        "text": "SNES",
+        "correct": false
+      },
+      {
+        "text": "Wii",
+        "correct": false
+      },
+      {
+        "text": "Switch",
+        "correct": false
+      },
+      {
+        "text": "Dreamcast",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who painted the Mona Lisa?",
+    "a": [
+      {
+        "text": "Pablo Picasso",
+        "correct": false
+      },
+      {
+        "text": "Claude Monet",
+        "correct": false
+      },
+      {
+        "text": "Vincent van Gogh",
+        "correct": false
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who created the digital distribution platform Steam?",
+    "a": [
+      {
+        "text": "Pixeltail Games",
+        "correct": false
+      },
+      {
+        "text": "Ubisoft",
+        "correct": false
+      },
+      {
+        "text": "Electronic Arts",
+        "correct": false
+      },
+      {
+        "text": "Valve",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these songs by Skrillex features Fatman Scoop as a side artist?",
+    "a": [
+      {
+        "text": "All is Fair in Love and Brostep",
+        "correct": false
+      },
+      {
+        "text": "Rock N Roll (Will Take You to the Mountain)",
+        "correct": false
+      },
+      {
+        "text": "Scary Monsters and Nice Sprites",
+        "correct": false
+      },
+      {
+        "text": "Recess",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Pokémon Go is a location-based augmented reality game developed and published by which company?",
+    "a": [
+      {
+        "text": "Rovio",
+        "correct": false
+      },
+      {
+        "text": "Zynga",
+        "correct": false
+      },
+      {
+        "text": "Supercell",
+        "correct": false
+      },
+      {
+        "text": "Niantic",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Twitch streamer is the vocalist for Red Vox?",
+    "a": [
+      {
+        "text": "The8BitDrummer",
+        "correct": false
+      },
+      {
+        "text": "LIRIK",
+        "correct": false
+      },
+      {
+        "text": "Sodapoppin",
+        "correct": false
+      },
+      {
+        "text": "Vinesauce",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+    "a": [
+      {
+        "text": "Noah's Ark",
+        "correct": false
+      },
+      {
+        "text": "Fat Man",
+        "correct": false
+      },
+      {
+        "text": "Trojan Horse",
+        "correct": false
+      },
+      {
+        "text": "Spruce Goose",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Brian May was the guitarist for which band?",
+    "a": [
+      {
+        "text": "Pink Floyd",
+        "correct": false
+      },
+      {
+        "text": "Rolling Stones",
+        "correct": false
+      },
+      {
+        "text": "The Doors",
+        "correct": false
+      },
+      {
+        "text": "Queen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In \"Fallout 4\" which faction is not present in the game?",
+    "a": [
+      {
+        "text": "The Minutemen",
+        "correct": false
+      },
+      {
+        "text": "The Brotherhood of Steel",
+        "correct": false
+      },
+      {
+        "text": "The Institute",
+        "correct": false
+      },
+      {
+        "text": "The Enclave",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The element involved in making human blood red is which of the following?",
+    "a": [
+      {
+        "text": "Copper",
+        "correct": false
+      },
+      {
+        "text": "Iridium",
+        "correct": false
+      },
+      {
+        "text": "Cobalt",
+        "correct": false
+      },
+      {
+        "text": "Iron",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the videogame Bully, what is the protagonist's last name?",
+    "a": [
+      {
+        "text": "Smith",
+        "correct": false
+      },
+      {
+        "text": "Kowalski",
+        "correct": false
+      },
+      {
+        "text": "Crabblesnitch",
+        "correct": false
+      },
+      {
+        "text": "Hopkins",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the television show Breaking Bad, what is the street name of Walter and Jesse's notorious product?",
+    "a": [
+      {
+        "text": "Baby Blue",
+        "correct": false
+      },
+      {
+        "text": "Rock Candy",
+        "correct": false
+      },
+      {
+        "text": "Pure Glass",
+        "correct": false
+      },
+      {
+        "text": "Blue Sky",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the name of the the first episode of Doctor Who to air in 1963?",
+    "a": [
+      {
+        "text": "The Daleks",
+        "correct": false
+      },
+      {
+        "text": "The Aztecs",
+        "correct": false
+      },
+      {
+        "text": "The Edge of Destruction",
+        "correct": false
+      },
+      {
+        "text": "An Unearthly Child",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which 80s band is fronted by singer/guitarist Robert Smith?",
+    "a": [
+      {
+        "text": "The Smiths",
+        "correct": false
+      },
+      {
+        "text": "Echo & the Bunnymen",
+        "correct": false
+      },
+      {
+        "text": "New Order",
+        "correct": false
+      },
+      {
+        "text": "The Cure",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+    "a": [
+      {
+        "text": "Venus",
+        "correct": false
+      },
+      {
+        "text": "Mars",
+        "correct": false
+      },
+      {
+        "text": "Uranus",
+        "correct": false
+      },
+      {
+        "text": "Earth",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "71% of the Earth's surface is made up of",
+    "a": [
+      {
+        "text": "Deserts",
+        "correct": false
+      },
+      {
+        "text": "Continents",
+        "correct": false
+      },
+      {
+        "text": "Forests",
+        "correct": false
+      },
+      {
+        "text": "Water",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of New Zealand's indigenous people?",
+    "a": [
+      {
+        "text": "Vikings",
+        "correct": false
+      },
+      {
+        "text": "Polynesians",
+        "correct": false
+      },
+      {
+        "text": "Samoans",
+        "correct": false
+      },
+      {
+        "text": "Maori",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The \"Trail of Tears\" was a result of which United States President's Indian Removal Policy?",
+    "a": [
+      {
+        "text": "Harry S. Truman",
+        "correct": false
+      },
+      {
+        "text": "Martin Van Buren",
+        "correct": false
+      },
+      {
+        "text": "John Quincy Adams",
+        "correct": false
+      },
+      {
+        "text": "Andrew Jackson",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the smallest country in the world?",
+    "a": [
+      {
+        "text": "Maldives",
+        "correct": false
+      },
+      {
+        "text": "Monaco",
+        "correct": false
+      },
+      {
+        "text": "Malta",
+        "correct": false
+      },
+      {
+        "text": "Vatican City",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "To what political party did Abraham Lincoln belong when elected POTUS?",
+    "a": [
+      {
+        "text": "Democrat",
+        "correct": false
+      },
+      {
+        "text": "Independent",
+        "correct": false
+      },
+      {
+        "text": "Whig",
+        "correct": false
+      },
+      {
+        "text": "Republican",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The LS3 engine is how many cubic inches?",
+    "a": [
+      {
+        "text": "346",
+        "correct": false
+      },
+      {
+        "text": "364",
+        "correct": false
+      },
+      {
+        "text": "427",
+        "correct": false
+      },
+      {
+        "text": "376",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of Nissan's most popular electric car?",
+    "a": [
+      {
+        "text": "Tree",
+        "correct": false
+      },
+      {
+        "text": "Deer",
+        "correct": false
+      },
+      {
+        "text": "Roots",
+        "correct": false
+      },
+      {
+        "text": "Leaf",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the main protagonist in Danganronpa 2: Goodbye Despair?",
+    "a": [
+      {
+        "text": "Nagito Komaeda",
+        "correct": false
+      },
+      {
+        "text": "Makoto Naegi",
+        "correct": false
+      },
+      {
+        "text": "Junko Enoshima",
+        "correct": false
+      },
+      {
+        "text": "Hajime Hinata",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which classical composer wrote the \"Moonlight Sonata\"?",
+    "a": [
+      {
+        "text": "Chief Keef",
+        "correct": false
+      },
+      {
+        "text": "Wolfgang Amadeus Mozart",
+        "correct": false
+      },
+      {
+        "text": "Johannes Brahms",
+        "correct": false
+      },
+      {
+        "text": "Ludvig Van Beethoven",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of the planet that the Doctor from television series \"Doctor Who\" comes from?",
+    "a": [
+      {
+        "text": "Sontar",
+        "correct": false
+      },
+      {
+        "text": "Skaro",
+        "correct": false
+      },
+      {
+        "text": "Mondas",
+        "correct": false
+      },
+      {
+        "text": "Gallifrey",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+    "a": [
+      {
+        "text": "San Tokyo",
+        "correct": false
+      },
+      {
+        "text": "Tokysisco",
+        "correct": false
+      },
+      {
+        "text": "Sankyo",
+        "correct": false
+      },
+      {
+        "text": "San Fransokyo",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which modern country is known as \"The Graveyard of Empires\"?",
+    "a": [
+      {
+        "text": "China",
+        "correct": false
+      },
+      {
+        "text": "Iraq",
+        "correct": false
+      },
+      {
+        "text": "Russia",
+        "correct": false
+      },
+      {
+        "text": "Afghanistan",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the theme song of \"Neon Genesis Evangelion\"?",
+    "a": [
+      {
+        "text": "Stardust Crusaders",
+        "correct": false
+      },
+      {
+        "text": "Requiem for a Dream",
+        "correct": false
+      },
+      {
+        "text": "God Knows",
+        "correct": false
+      },
+      {
+        "text": "A Cruel Angel's Thesis",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who wrote \"Harry Potter\"?",
+    "a": [
+      {
+        "text": "J.R.R. Tolkien",
+        "correct": false
+      },
+      {
+        "text": "Terry Pratchett",
+        "correct": false
+      },
+      {
+        "text": "Daniel Radcliffe",
+        "correct": false
+      },
+      {
+        "text": "J.K. Rowling",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which one of these tanks was designed and operated by the United Kingdom?",
+    "a": [
+      {
+        "text": "M4 Sherman",
+        "correct": false
+      },
+      {
+        "text": "Tiger H1",
+        "correct": false
+      },
+      {
+        "text": "T-34",
+        "correct": false
+      },
+      {
+        "text": "Tog II",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In what sport is a \"shuttlecock\" used?",
+    "a": [
+      {
+        "text": "Table Tennis",
+        "correct": false
+      },
+      {
+        "text": "Rugby",
+        "correct": false
+      },
+      {
+        "text": "Cricket",
+        "correct": false
+      },
+      {
+        "text": "Badminton",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+    "a": [
+      {
+        "text": "Castor",
+        "correct": false
+      },
+      {
+        "text": "Daedalus",
+        "correct": false
+      },
+      {
+        "text": "Odysseus",
+        "correct": false
+      },
+      {
+        "text": "Jason",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "This movie contains the quote, \"Houston, we have a problem.\"",
+    "a": [
+      {
+        "text": "The Right Stuff",
+        "correct": false
+      },
+      {
+        "text": "Capricorn One",
+        "correct": false
+      },
+      {
+        "text": "Marooned",
+        "correct": false
+      },
+      {
+        "text": "Apollo 13",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
+    "a": [
+      {
+        "text": "August 23",
+        "correct": false
+      },
+      {
+        "text": "August 19",
+        "correct": false
+      },
+      {
+        "text": "August 17",
+        "correct": false
+      },
+      {
+        "text": "August 21",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?",
+    "a": [
+      {
+        "text": "Brunette",
+        "correct": false
+      },
+      {
+        "text": "Black",
+        "correct": false
+      },
+      {
+        "text": "Burgundy",
+        "correct": false
+      },
+      {
+        "text": "Blonde",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The term \"battery\" to describe an electrical storage device was coined by?",
+    "a": [
+      {
+        "text": "Nikola Tesla",
+        "correct": false
+      },
+      {
+        "text": "Luigi Galvani",
+        "correct": false
+      },
+      {
+        "text": " Alessandro Volta",
+        "correct": false
+      },
+      {
+        "text": "Benjamin Franklin",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many Harry Potter books are there?",
+    "a": [
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the Pixar film, \"Toy Story\" what was the name of the child who owned the toys?",
+    "a": [
+      {
+        "text": "Edward",
+        "correct": false
+      },
+      {
+        "text": "Danny",
+        "correct": false
+      },
+      {
+        "text": "Matt",
+        "correct": false
+      },
+      {
+        "text": "Andy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the lead singer of the British pop rock band Coldplay?",
+    "a": [
+      {
+        "text": "Jonny Buckland",
+        "correct": false
+      },
+      {
+        "text": "Guy Berryman",
+        "correct": false
+      },
+      {
+        "text": "Will Champion",
+        "correct": false
+      },
+      {
+        "text": "Chris Martin",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who is the leader of Team Mystic in Pokémon Go?",
+    "a": [
+      {
+        "text": "Candela",
+        "correct": false
+      },
+      {
+        "text": "Spark",
+        "correct": false
+      },
+      {
+        "text": "Willow",
+        "correct": false
+      },
+      {
+        "text": "Blanche",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Sting, the lead vocalist of The Police, primarily plays what instrument?",
+    "a": [
+      {
+        "text": "Drums",
+        "correct": false
+      },
+      {
+        "text": "Guitar",
+        "correct": false
+      },
+      {
+        "text": "Keyboards",
+        "correct": false
+      },
+      {
+        "text": "Bass Guitar",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The 2002 film \"28 Days Later\" is mainly set in which European country?",
+    "a": [
+      {
+        "text": "France",
+        "correct": false
+      },
+      {
+        "text": "Italy",
+        "correct": false
+      },
+      {
+        "text": "Germany",
+        "correct": false
+      },
+      {
+        "text": "United Kingdom",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "According to Sherlock Holmes, \"If you eliminate the impossible, whatever remains, however improbable, must be the...\"",
+    "a": [
+      {
+        "text": "Answer",
+        "correct": false
+      },
+      {
+        "text": "Cause",
+        "correct": false
+      },
+      {
+        "text": "Source",
+        "correct": false
+      },
+      {
+        "text": "Truth",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the name of Poland in Polish?",
+    "a": [
+      {
+        "text": "Pupcia",
+        "correct": false
+      },
+      {
+        "text": "Polszka",
+        "correct": false
+      },
+      {
+        "text": "Póland",
+        "correct": false
+      },
+      {
+        "text": "Polska",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How was Socrates executed?",
+    "a": [
+      {
+        "text": "Decapitation",
+        "correct": false
+      },
+      {
+        "text": "Firing squad",
+        "correct": false
+      },
+      {
+        "text": "Crucifixion ",
+        "correct": false
+      },
+      {
+        "text": "Poison",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What year did the New Orleans Saints win the Super Bowl?",
+    "a": [
+      {
+        "text": "2008",
+        "correct": false
+      },
+      {
+        "text": "2010",
+        "correct": false
+      },
+      {
+        "text": "2011",
+        "correct": false
+      },
+      {
+        "text": "2009",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When was Left 4 Dead 2 released?",
+    "a": [
+      {
+        "text": "May 3, 2008",
+        "correct": false
+      },
+      {
+        "text": "November 30, 2009",
+        "correct": false
+      },
+      {
+        "text": "June 30, 2010",
+        "correct": false
+      },
+      {
+        "text": "November 17, 2009",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In season one of the Netflix political drama \"House of Cards\", what government position does Frank Underwood hold?",
+    "a": [
+      {
+        "text": "Attorney General",
+        "correct": false
+      },
+      {
+        "text": "President",
+        "correct": false
+      },
+      {
+        "text": "Chief of Staff",
+        "correct": false
+      },
+      {
+        "text": "House Majority Whip",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "This Canadian television sportscaster is known for his \"Hockey Night in Canada\" role, a commentary show during hockey games.",
+    "a": [
+      {
+        "text": "Don McKellar",
+        "correct": false
+      },
+      {
+        "text": "Don Taylor ",
+        "correct": false
+      },
+      {
+        "text": "Donald Sutherland",
+        "correct": false
+      },
+      {
+        "text": "Don Cherry",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What household item make the characters of \"Steins; Gate\" travel through time?",
+    "a": [
+      {
+        "text": "Computer",
+        "correct": false
+      },
+      {
+        "text": "Refrigerator",
+        "correct": false
+      },
+      {
+        "text": "Televison",
+        "correct": false
+      },
+      {
+        "text": "Microwave",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In \"Call Of Duty: Zombies\", what is the name of the Pack-A-Punched Crossbow?",
+    "a": [
+      {
+        "text": "Longinus",
+        "correct": false
+      },
+      {
+        "text": "V-R11",
+        "correct": false
+      },
+      {
+        "text": "Predator",
+        "correct": false
+      },
+      {
+        "text": "Awful Lawton",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of the following songs did Elton John perform following Princess Diane's passing?",
+    "a": [
+      {
+        "text": "I Guess That's Why They Call It The Blues",
+        "correct": false
+      },
+      {
+        "text": "Your Song",
+        "correct": false
+      },
+      {
+        "text": "Island Girl",
+        "correct": false
+      },
+      {
+        "text": "Candles in the Wind",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+    "a": [
+      {
+        "text": "Mewtwo",
+        "correct": false
+      },
+      {
+        "text": "Lucas",
+        "correct": false
+      },
+      {
+        "text": "Roy",
+        "correct": false
+      },
+      {
+        "text": "Dr. Mario",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What animation studio produced \"Gurren Lagann\"?",
+    "a": [
+      {
+        "text": "Kyoto Animation",
+        "correct": false
+      },
+      {
+        "text": "Pierrot",
+        "correct": false
+      },
+      {
+        "text": "A-1 Pictures",
+        "correct": false
+      },
+      {
+        "text": "Gainax",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the first feature-length computer-animated movie?",
+    "a": [
+      {
+        "text": "Tron",
+        "correct": false
+      },
+      {
+        "text": "Lion king",
+        "correct": false
+      },
+      {
+        "text": "101 Dalmatians",
+        "correct": false
+      },
+      {
+        "text": "Toy Story",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "On the NBC show Community, whose catch-phrase was \"Pop! Pop!\"?",
+    "a": [
+      {
+        "text": "Star Burns",
+        "correct": false
+      },
+      {
+        "text": "Leonard",
+        "correct": false
+      },
+      {
+        "text": "Senoir Chang",
+        "correct": false
+      },
+      {
+        "text": "Magnitude",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the name of the fictional SCP Foundation, what does the \"SCP\" stand for?",
+    "a": [
+      {
+        "text": "Secure, Contain, Protect",
+        "correct": false
+      },
+      {
+        "text": "Supernatural Creature Preservation",
+        "correct": false
+      },
+      {
+        "text": "Silent Community Protection",
+        "correct": false
+      },
+      {
+        "text": "Special Containment Procedures",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "a": [
+      {
+        "text": "Ted",
+        "correct": false
+      },
+      {
+        "text": "Spy Kids",
+        "correct": false
+      },
+      {
+        "text": "Pirates of the Caribbean ",
+        "correct": false
+      },
+      {
+        "text": "Harry Potter",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the capital of the American state of Arizona?",
+    "a": [
+      {
+        "text": "Montgomery",
+        "correct": false
+      },
+      {
+        "text": "Tallahassee",
+        "correct": false
+      },
+      {
+        "text": "Raleigh",
+        "correct": false
+      },
+      {
+        "text": "Phoenix",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Shakespeare play inspired the musical 'West Side Story'?",
+    "a": [
+      {
+        "text": "Hamlet",
+        "correct": false
+      },
+      {
+        "text": "Macbeth",
+        "correct": false
+      },
+      {
+        "text": "Othello",
+        "correct": false
+      },
+      {
+        "text": "Romeo & Juliet",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+    "a": [
+      {
+        "text": "Nitrogen",
+        "correct": false
+      },
+      {
+        "text": "Oxygen",
+        "correct": false
+      },
+      {
+        "text": "Hydrogen",
+        "correct": false
+      },
+      {
+        "text": "Carbon",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "How many planets are in our Solar System?",
+    "a": [
+      {
+        "text": "Nine",
+        "correct": false
+      },
+      {
+        "text": "Seven",
+        "correct": false
+      },
+      {
+        "text": "Ten",
+        "correct": false
+      },
+      {
+        "text": "Eight",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+    "a": [
+      {
+        "text": "South Africa",
+        "correct": false
+      },
+      {
+        "text": "Australia",
+        "correct": false
+      },
+      {
+        "text": "Madagascar",
+        "correct": false
+      },
+      {
+        "text": "New Zealand",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the original Star Trek TV series, what was Captain James T. Kirk's middle name?",
+    "a": [
+      {
+        "text": "Trevor",
+        "correct": false
+      },
+      {
+        "text": "Travis",
+        "correct": false
+      },
+      {
+        "text": "Tyrone",
+        "correct": false
+      },
+      {
+        "text": "Tiberius",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In which British seaside town was the BBC sitcom \"Fawlty Towers\" set?",
+    "a": [
+      {
+        "text": "Blackpool",
+        "correct": false
+      },
+      {
+        "text": "Bournemouth",
+        "correct": false
+      },
+      {
+        "text": "Great Yarmouth",
+        "correct": false
+      },
+      {
+        "text": "Torquay",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which of these is NOT a main playable character in \"Grand Theft Auto V\"?",
+    "a": [
+      {
+        "text": "Trevor",
+        "correct": false
+      },
+      {
+        "text": "Michael",
+        "correct": false
+      },
+      {
+        "text": "Franklin",
+        "correct": false
+      },
+      {
+        "text": "Lamar",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the first video game in the Batman \"Arkham\" series?",
+    "a": [
+      {
+        "text": "Arkham Knight",
+        "correct": false
+      },
+      {
+        "text": "Arkham City",
+        "correct": false
+      },
+      {
+        "text": "Arkham Origins",
+        "correct": false
+      },
+      {
+        "text": "Arkham Asylum",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?",
+    "a": [
+      {
+        "text": "Tiger",
+        "correct": false
+      },
+      {
+        "text": "Panda",
+        "correct": false
+      },
+      {
+        "text": "Crocodile",
+        "correct": false
+      },
+      {
+        "text": "Gorilla",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Portal 2, how did CEO of Aperture Science, Cave Johnson, presumably die?",
+    "a": [
+      {
+        "text": "Accidentally sending a portal to the Moon",
+        "correct": false
+      },
+      {
+        "text": "Slipped in the shower",
+        "correct": false
+      },
+      {
+        "text": "Asbestos Poisoning",
+        "correct": false
+      },
+      {
+        "text": "Moon Rock Poisoning",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?",
+    "a": [
+      {
+        "text": "Sonic 2",
+        "correct": false
+      },
+      {
+        "text": "Sonic CD",
+        "correct": false
+      },
+      {
+        "text": "Sonic 3D Blast",
+        "correct": false
+      },
+      {
+        "text": "Sonic & Knuckles",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which universe crossover was introduced in the \"Sonic the Hedgehog\" comic issue #247?",
+    "a": [
+      {
+        "text": "Super Mario Brothers",
+        "correct": false
+      },
+      {
+        "text": "Alex Kidd",
+        "correct": false
+      },
+      {
+        "text": "Super Monkey Ball",
+        "correct": false
+      },
+      {
+        "text": "Mega Man",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In what year was the first \"Mass Effect\" game released?",
+    "a": [
+      {
+        "text": "2008",
+        "correct": false
+      },
+      {
+        "text": "2009",
+        "correct": false
+      },
+      {
+        "text": "2010",
+        "correct": false
+      },
+      {
+        "text": "2007",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What album did The Lumineers release in 2016?",
+    "a": [
+      {
+        "text": "Winter",
+        "correct": false
+      },
+      {
+        "text": "The Lumineers",
+        "correct": false
+      },
+      {
+        "text": "Tracks From The Attic",
+        "correct": false
+      },
+      {
+        "text": "Cleopatra",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the first ever London Underground line to be built?",
+    "a": [
+      {
+        "text": "Circle Line",
+        "correct": false
+      },
+      {
+        "text": "Bakerloo Line",
+        "correct": false
+      },
+      {
+        "text": "Victoria Line",
+        "correct": false
+      },
+      {
+        "text": "Metropolitan Line",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In the 1995 film \"Balto\", who are Steele's accomplices?",
+    "a": [
+      {
+        "text": "Dusty, Kirby, and Ralph",
+        "correct": false
+      },
+      {
+        "text": "Nuk, Yak, and Sumac",
+        "correct": false
+      },
+      {
+        "text": "Jenna, Sylvie, and Dixie",
+        "correct": false
+      },
+      {
+        "text": "Kaltag, Nikki, and Star",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who painted The Starry Night?",
+    "a": [
+      {
+        "text": "Pablo Picasso",
+        "correct": false
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "correct": false
+      },
+      {
+        "text": "Michelangelo",
+        "correct": false
+      },
+      {
+        "text": "Vincent van Gogh",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The ancient Roman god of war was commonly known as which of the following?",
+    "a": [
+      {
+        "text": "Jupiter",
+        "correct": false
+      },
+      {
+        "text": "Juno",
+        "correct": false
+      },
+      {
+        "text": "Ares",
+        "correct": false
+      },
+      {
+        "text": "Mars",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the name of the police officer in the cartoon \"Top Cat\"?",
+    "a": [
+      {
+        "text": "Barbrady",
+        "correct": false
+      },
+      {
+        "text": "Mahoney",
+        "correct": false
+      },
+      {
+        "text": "Murphy",
+        "correct": false
+      },
+      {
+        "text": "Dibble",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+    "a": [
+      {
+        "text": "Microsoft",
+        "correct": false
+      },
+      {
+        "text": "Atari",
+        "correct": false
+      },
+      {
+        "text": "Commodore",
+        "correct": false
+      },
+      {
+        "text": "Apple",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Where is the train station \"Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch\"?",
+    "a": [
+      {
+        "text": "Moldova",
+        "correct": false
+      },
+      {
+        "text": "Czech Republic",
+        "correct": false
+      },
+      {
+        "text": "Denmark",
+        "correct": false
+      },
+      {
+        "text": "Wales",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was William Frederick Cody better known as?",
+    "a": [
+      {
+        "text": "Billy the Kid",
+        "correct": false
+      },
+      {
+        "text": "Wild Bill Hickok",
+        "correct": false
+      },
+      {
+        "text": "Pawnee Bill",
+        "correct": false
+      },
+      {
+        "text": "Buffalo Bill",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which type of rock is created by intense heat AND pressure?",
+    "a": [
+      {
+        "text": "Sedimentary",
+        "correct": false
+      },
+      {
+        "text": "Igneous",
+        "correct": false
+      },
+      {
+        "text": "Diamond",
+        "correct": false
+      },
+      {
+        "text": "Metamorphic",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the capital of Jamaica?",
+    "a": [
+      {
+        "text": "San Juan",
+        "correct": false
+      },
+      {
+        "text": "Port-au-Prince",
+        "correct": false
+      },
+      {
+        "text": "Bridgetown",
+        "correct": false
+      },
+      {
+        "text": "Kingston",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Which sign of the zodiac is represented by the Crab?",
+    "a": [
+      {
+        "text": "Libra",
+        "correct": false
+      },
+      {
+        "text": "Virgo",
+        "correct": false
+      },
+      {
+        "text": "Sagittarius",
+        "correct": false
+      },
+      {
+        "text": "Cancer",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What geometric shape is generally used for stop signs?",
+    "a": [
+      {
+        "text": "Hexagon",
+        "correct": false
+      },
+      {
+        "text": "Circle",
+        "correct": false
+      },
+      {
+        "text": "Triangle",
+        "correct": false
+      },
+      {
+        "text": "Octagon",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "Who was given the title \"Full Metal\" in the anime series \"Full Metal Alchemist\"?",
+    "a": [
+      {
+        "text": "Alphonse Elric",
+        "correct": false
+      },
+      {
+        "text": "Van Hohenheim",
+        "correct": false
+      },
+      {
+        "text": "Izumi Curtis",
+        "correct": false
+      },
+      {
+        "text": "Edward Elric",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What is the last name of Edward and Alphonse in the Fullmetal Alchemist series.",
+    "a": [
+      {
+        "text": "Ellis",
+        "correct": false
+      },
+      {
+        "text": "Eliek",
+        "correct": false
+      },
+      {
+        "text": "Elwood",
+        "correct": false
+      },
+      {
+        "text": "Elric",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What year was the game \"Overwatch\" revealed?",
+    "a": [
+      {
+        "text": "2015",
+        "correct": false
+      },
+      {
+        "text": "2011",
+        "correct": false
+      },
+      {
+        "text": "2008",
+        "correct": false
+      },
+      {
+        "text": "2014",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the cause of Marilyn Monroes suicide?",
+    "a": [
+      {
+        "text": "Knife Attack",
+        "correct": false
+      },
+      {
+        "text": "House Fire",
+        "correct": false
+      },
+      {
+        "text": "Gunshot",
+        "correct": false
+      },
+      {
+        "text": "Drug Overdose",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In what year was \"Antichamber\" released?",
+    "a": [
+      {
+        "text": "2012",
+        "correct": false
+      },
+      {
+        "text": "2014",
+        "correct": false
+      },
+      {
+        "text": "2011",
+        "correct": false
+      },
+      {
+        "text": "2013",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What does Solid Snake use to hide himself with?",
+    "a": [
+      {
+        "text": "Cloaking Device",
+        "correct": false
+      },
+      {
+        "text": "Metal Crate",
+        "correct": false
+      },
+      {
+        "text": "Cardboard cut-out",
+        "correct": false
+      },
+      {
+        "text": "Cardboard Box",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Animal Crossing, who is the manager of the town shop?",
+    "a": [
+      {
+        "text": "Mr. Resetti",
+        "correct": false
+      },
+      {
+        "text": "Gracie",
+        "correct": false
+      },
+      {
+        "text": "K.K. Slider",
+        "correct": false
+      },
+      {
+        "text": "Tom Nook",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In Star Trek: The Next Generation, what is the name of Data's cat?",
+    "a": [
+      {
+        "text": "Mittens",
+        "correct": false
+      },
+      {
+        "text": "Tom",
+        "correct": false
+      },
+      {
+        "text": "Kitty",
+        "correct": false
+      },
+      {
+        "text": "Spot",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "In \"Breaking Bad\", Walter White is a high school teacher diagnosed with which form of cancer?",
+    "a": [
+      {
+        "text": "Prostate Cancer",
+        "correct": false
+      },
+      {
+        "text": "Brain Cancer",
+        "correct": false
+      },
+      {
+        "text": "Testicular Cancer",
+        "correct": false
+      },
+      {
+        "text": "Lung Cancer",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "When was the iPhone released?",
+    "a": [
+      {
+        "text": "2005",
+        "correct": false
+      },
+      {
+        "text": "2006",
+        "correct": false
+      },
+      {
+        "text": "2004",
+        "correct": false
+      },
+      {
+        "text": "2007",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "The LS7 engine is how many cubic inches?",
+    "a": [
+      {
+        "text": "346",
+        "correct": false
+      },
+      {
+        "text": "364",
+        "correct": false
+      },
+      {
+        "text": "376",
+        "correct": false
+      },
+      {
+        "text": "427",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What were the first two blocks in \"Minecraft\"?",
+    "a": [
+      {
+        "text": "Grass and Stone",
+        "correct": false
+      },
+      {
+        "text": "Crafting Table and Cobblestone",
+        "correct": false
+      },
+      {
+        "text": "Cobblestone and Stone",
+        "correct": false
+      },
+      {
+        "text": "Grass and Cobblestone",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What are Sans and Papyrus named after in \"Undertale\"?",
+    "a": [
+      {
+        "text": "Plants",
+        "correct": false
+      },
+      {
+        "text": "Companies",
+        "correct": false
+      },
+      {
+        "text": "Ancient writing paper",
+        "correct": false
+      },
+      {
+        "text": "Fonts",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "q": "What was the first game in the \"Battlefield\" series?",
+    "a": [
+      {
+        "text": "Battlefield Vietnam",
+        "correct": false
+      },
+      {
+        "text": "Battlefield 2",
+        "correct": false
+      },
+      {
+        "text": "Battlefield 1",
+        "correct": false
+      },
+      {
+        "text": "Battlefield 1942",
+        "correct": true
+      }
+    ]
+  }
+]
