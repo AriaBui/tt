@@ -101,7 +101,10 @@ div > .Star {
   top: -300px;
   left: 460px;
 }
-
+.tree{
+  position: relative;
+  
+}
 .tree > svg{
   width: 74vh;
   height: 63vh;

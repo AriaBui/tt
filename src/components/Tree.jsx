@@ -11,8 +11,8 @@ export const Tree = ({players}) => {
     return (
     <div className="tree">
         <svg 
-            width={909}
-            height={820}
+            // width={909}
+            // height={820}
             viewBox="7 0 1009 1320"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"

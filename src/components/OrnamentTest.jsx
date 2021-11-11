@@ -5,7 +5,7 @@ import Proptypes from 'prop-types'
 const OrnamentTest = ({player, color, place}) => {
 
     return(
-        <div className="ornament-container">
+        <div className={`ornament-container ${color}`}>
             {player && 
             <div className={`ornament ${color}`}>
                 <div>{place}</div>
